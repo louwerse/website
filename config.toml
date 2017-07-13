@@ -1,4 +1,4 @@
-baseurl = "http://louwerse.github.io/"  # End your URL with a `/` trailing slash.
+baseurl = "http://www.tomlouwerse.nl/"  # End your URL with a `/` trailing slash.
 title = "Tom Louwerse"
 copyright = "&copy; 2017 Tom Louwerse"
 theme = "academic"
@@ -27,9 +27,9 @@ defaultContentLanguageInSubdir = false
   avatar = "tl.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "t.p.louwerse@fsw.leidenuniv.nl"
   address = "room 5B47, Wassenaarseweg 52, 2333 AK  Leiden, the Netherlands"
-  office_hours = ""
+  office_hours = "Office hours for next year will be announced at a later date"
   phone = "+31 71 527 8068"
-  skype = "tomlouwerse"
+  skype = ""
   telegram = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
@@ -198,9 +198,28 @@ defaultContentLanguageInSubdir = false
   weight = 5
 
 [[menu.main]]
-  name = "Media"
+  name = "Outreach"
+  identifier = "outreach"
   url = "#media"
   weight = 6
+  
+[[menu.main]]
+  parent = "outreach"
+  name = "Blogs & popular publications"
+  url = "#blogs"
+  weight = 1
+
+[[menu.main]]
+  parent = "outreach"
+  name = "Media"
+  url = "#media"
+  weight = 2
+
+[[menu.main]]
+  parent = "outreach"
+  name = "Talks"
+  url = "#talks"
+  weight = 3
   
 [[menu.main]]
   name = "Contact"

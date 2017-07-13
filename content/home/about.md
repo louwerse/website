@@ -35,3 +35,5 @@ weight = 1
 I am an Assistant Professor in Political Science at Leiden University, the Netherlands. My research and teaching focuses on comparative politics and research methods. 
 
 My outreach activities include polling aggregation in the Netherlands, published by the public broadcaster NOS, and Ireland. I am a regular contributor to the Dutch political science weblog Stuk Rood Vlees.
+
+:page_facing_up: [Curriculum vitae](pdf/CV.pdf)

@@ -7,7 +7,7 @@ date = "2016-04-20T00:00:00"
 draft = false
 
 title = "Selected Publications"
-subtitle = "[All publications &#187;](/publication)"
+subtitle = "[All publications &#187;](/publication)\n\n[Conference papers &#187;](/papers)"
 widget = "publications_selected"
 
 # Order that this section will appear in.
