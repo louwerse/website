@@ -32,8 +32,8 @@ weight = 1
 
 +++
 
-I am an Assistant Professor in Political Science at Leiden University, the Netherlands. My research and teaching focuses on comparative politics and research methods. 
+I am an Assistant Professor in Political Science at [Leiden University](https://www.universiteitleiden.nl/en/staffmembers/tom-louwerse), the Netherlands. My [research](#projects) and [teaching](#teaching) focuses on comparative politics and research methods. 
 
-My outreach activities include polling aggregation in the Netherlands, published by the public broadcaster NOS, and Ireland. I am a regular contributor to the Dutch political science weblog Stuk Rood Vlees.
+My outreach activities include [polling aggregation](http://peilingwijzer.tomlouwerse.nl) in the Netherlands, published by the public broadcaster NOS, and [Ireland](http://www.pollingindicator.com). I am a regular contributor to the Dutch political science weblog [Stuk Rood Vlees](http://www.stukroodvlees.nl).
 
 :page_facing_up: [Curriculum vitae](pdf/CV.pdf)

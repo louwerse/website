@@ -11,7 +11,7 @@ highlight = false
 
 +++
 
-**2017**
+**2017**  
 Louwerse, T. (24-1-2017) “[The 2017 Netherlands election: Polls suggest mid-sized parties are now the new norm in Dutch politics](http://blogs.lse.ac.uk/europpblog/2017/01/24/2017-netherlands-election-mid-sized-parties-the-new-norm/)”. _LSE Europp blog_**.**  
 
 **2016**  
@@ -23,7 +23,7 @@ Holsteyn, J. van & Louwerse, T. (15-6-2016) "[The Dutch 2016 Referendum: Voice, 
 
 Holsteyn, J. van & Louwerse, T. (4-11-2016) "[Trump kan winnen, ook als Clinton aan kop gaat in polls](https://www.nrc.nl/nieuws/2016/11/03/trump-kan-winnen-ook-als-clinton-aan-kop-gaat-in-polls-5119929-a1530075)"_. NRC Handelsblad_.  
 
-**2013 **  
+**2013**  
 Louwerse, T. & Otjes, S. (31-3-2013). ["Actions speak louder than words". Do left-wing and right-wing populists vote alike in parliament?](http://www.psa.ac.uk/insight-plus/blog/actions-speak-louder-words-do-left-wing-and-right-wing-populists-vote-alike) _PSA Blog_.  
 
 **2012**  
