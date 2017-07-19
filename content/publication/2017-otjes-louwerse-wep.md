@@ -7,6 +7,7 @@ image = ""
 image_preview = ""
 math = false
 publication = "*West European Politics*"
+citation = "Louwerse, Tom & Simon Otjes (forthcoming). Parliamentary Questions as Strategic Party Tools. *West European Politics*"
 title = "Parliamentary Questions as Strategic Party Tools"
 url_code = ""
 url_dataset = ""

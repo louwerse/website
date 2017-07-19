@@ -8,6 +8,7 @@ image_preview = ""
 math = false
 publication = "*Acta Politica*"
 title = "The Dutch Parliamentary Behaviour Dataset"
+citation = "Louwerse, Tom, Simon Otjes & Cynthia Van Vonno (2017) The Dutch Parliamentary Behaviour Dataset, *Acta Politica* doi:10.1057/s41269-017-0042-4"
 doi = "10.1057/s41269-017-0042-4"
 url_code = ""
 url_dataset = "http://dx.doi.org/10.7910/DVN/UXIBNO"
