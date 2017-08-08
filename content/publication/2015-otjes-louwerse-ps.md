@@ -18,7 +18,7 @@ url_video = ""
 publication_types = ["2"]
 [[url_custom]]
   name = "Accepted Manuscript"
-  url = "https://s3.eu-central-1.amazonaws.com/louwerse/Public/Publications/Otjes%2C%20Louwerse%20-%20Populists%20in%20Parliament%20-%20AAM.pdf"
+  url = "pdf/pub/2015%20Otjes%2C%20Louwerse%20-%20Populists%20in%20Parliament%20-%20AAM.pdf"
 [[url_custom]]
   name = "doi"
   url = "http://dx.doi.org/10.1111/1467-9248.12089"

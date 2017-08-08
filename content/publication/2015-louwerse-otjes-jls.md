@@ -18,7 +18,7 @@ url_video = ""
 publication_types = ["2"]
 [[url_custom]]
   name = "Accepted Manuscript"
-  url = "https://s3.eu-central-1.amazonaws.com/louwerse/Public/Publications/2015%20Louwerse%2C%20Otjes%20-%20The%20Impact%20of%20Parliamentary%20Specialisation%20on%20Cosponsorship%20-%20AM.pdf"
+  url = "pdf/pub/2015%20Louwerse%2C%20Otjes%20-%20The%20Impact%20of%20Parliamentary%20Specialisation%20on%20Cosponsorship%20-%20AM.pdf"
 [[url_custom]]
   name = "doi"
   url = "http://dx.doi.org/10.1080/13572334.2015.1076653"

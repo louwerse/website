@@ -20,7 +20,7 @@ selected = true
 publication_types = ["2"]
 [[url_custom]]
   name = "Accepted Manuscript"
-  url = "https://s3.eu-central-1.amazonaws.com/louwerse/Public/Publications/2016%20Louwerse%2C%20Otjes%20-%20Personalised%20parliamentary%20behaviour%20without%20electoral%20incentives%20-%20West%20European%20Politics%20-%20AM.pdf"
+  url = "pdf/pub/2016%20Louwerse%2C%20Otjes%20-%20Personalised%20parliamentary%20behaviour%20without%20electoral%20incentives%20-%20West%20European%20Politics%20-%20AM.pdf"
 [[url_custom]]
   name = "doi"
   url = "http://doi.org/10.1080/01402382.2015.1111041"

@@ -19,10 +19,10 @@ url_video = ""
 publication_types = ["2"]
 [[url_custom]]
   name = "Online Appendices"
-  url = "https://www.dropbox.com/s/yuktw8pqkbpswfg/2012%20WEP%20Online%20Appendices.pdf?dl=0"
+  url = "pdf/pub/2012%20WEP%20Online%20Appendices.pdf"
 [[url_custom]]
   name = "Accepted Manuscript"
-  url = "https://s3.eu-central-1.amazonaws.com/louwerse/Public/Publications/2012%20WEP%20Postprint.pdf"
+  url = "pdf/pub/2012%20WEP%20Postprint.pdf"
 [[url_custom]]
   name = "doi"
   url = "http://dx.doi.org/10.1080/01402382.2012.713745"

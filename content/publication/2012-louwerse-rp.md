@@ -18,5 +18,5 @@ url_video = ""
 publication_types = ["2"]
 [[url_custom]]
   name = "Accepted Manuscript"
-  url = "https://s3.eu-central-1.amazonaws.com/louwerse/Public/Publications/2012+Louwerse+-+Democratisch+mandaat+-+Auteursversie.pdf"
+  url = "pdf/pub/2012+Louwerse+-+Democratisch+mandaat+-+Auteursversie.pdf"
 +++

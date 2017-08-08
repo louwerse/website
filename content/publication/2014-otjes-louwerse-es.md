@@ -18,7 +18,7 @@ url_video = ""
 publication_types = ["2"]
 [[url_custom]]
   name = "Accepted Manuscript"
-  url = "https://s3.eu-central-1.amazonaws.com/louwerse/Public/Publications/2014%20Otjes%2C%20Louwerse%20-%20Spatial%20Models%20in%20Voting%20Advice%20Applications%20-%20AM.pdf"
+  url = "pdf/pub/2014%20Otjes%2C%20Louwerse%20-%20Spatial%20Models%20in%20Voting%20Advice%20Applications%20-%20AM.pdf"
 [[url_custom]]
   name = "doi"
   url = "https://doi.org/10.1016/j.electstud.2014.04.004"

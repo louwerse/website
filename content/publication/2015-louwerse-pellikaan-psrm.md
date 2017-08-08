@@ -18,7 +18,7 @@ url_video = ""
 publication_types = ["2"]
 [[url_custom]]
   name = "Accepted Manuscript"
-  url = "https://s3.eu-central-1.amazonaws.com/louwerse/Public/Publications/2015%20Louwerse%2C%20Pellikaan%20-%20Estimating%20Uncertainty%20in%20Party%20Policy%20Positions%20Using%20the%20Confrontational%20Approach%20-%20AM.pdf"
+  url = "pdf/pub/2015%20Louwerse%2C%20Pellikaan%20-%20Estimating%20Uncertainty%20in%20Party%20Policy%20Positions%20Using%20the%20Confrontational%20Approach%20-%20AM.pdf"
 [[url_custom]]
   name = "doi"
   url = "http://doi.org/10.1017/psrm.2015.32"

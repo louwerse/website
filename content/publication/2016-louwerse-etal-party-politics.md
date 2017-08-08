@@ -18,7 +18,7 @@ url_video = ""
 publication_types = ["2"]
 [[url_custom]]
   name = "Accepted Manuscript"
-  url = "https://s3.eu-central-1.amazonaws.com/louwerse/Public/Publications/2016%20Louwerse%20et%20al%20-%20Reaching%20across%20the%20aisle%20-%20Accepted%20Manuscript.pdf"
+  url = "pdf/pub/2016%20Louwerse%20et%20al%20-%20Reaching%20across%20the%20aisle%20-%20Accepted%20Manuscript.pdf"
 [[url_custom]]
   name = "doi"
   url = "http://doi.org/10.1177/1354068815626000"

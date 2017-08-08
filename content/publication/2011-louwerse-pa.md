@@ -12,11 +12,14 @@ doi = "10.1093/pa/gsr012"
 citation = "Louwerse, Tom (2011) The Spatial Approach to the Party Mandate, *Parliamentary Affairs* 64(3), 425-447"
 url_code = ""
 url_dataset = ""
-url_pdf = "http://pa.oxfordjournals.org/content/64/3/425.full.pdf?keytype=ref&ijkey=Cr1lsPxv2innkhE"
+url_pdf = ""
 url_project = "project/political-representation"
 url_slides = ""
 url_video = ""
 publication_types = ["2"]
+[[url_custom]]
+  name = "Accepted Manuscript"
+  url = "pdf/pub/2011-louwerse-pa.pdf"
 [[url_custom]]
   name = "doi"
   url = "https://doi.org/10.1093/pa/gsr012"

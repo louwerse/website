@@ -18,7 +18,7 @@ url_video = ""
 publication_types = ["2"]
 [[url_custom]]
   name = "Accepted Manuscript"
-  url = "https://s3.eu-central-1.amazonaws.com/louwerse/Public/Publications/Louwerse%20and%20Otjes%20-%20Design%20challenges%20in%20cross-national%20VAAs%20The%20case%20of%20the%20EU%20Profiler%20-%20Accepted%20Manuscript.pdf"
+  url = "pdf/pub/2012 Louwerse%20and%20Otjes%20-%20Design%20challenges%20in%20cross-national%20VAAs%20The%20case%20of%20the%20EU%20Profiler%20-%20Accepted%20Manuscript.pdf"
 [[url_custom]]
   name = "doi"
   url = "http://dx.doi.org/10.1504/IJEG.2012.051305"

@@ -19,7 +19,7 @@ url_video = ""
 publication_types = ["7"]
 [[url_custom]]
   name = "Accepted Manuscript"
-  url = "https://s3.eu-central-1.amazonaws.com/louwerse/Public/Publications/2009%20Acta%20Politica%20-%20Louwerse%20-%20Book%20Review%20-%20Authors%20Accepted%20Manuscript.pdf"
+  url = "pdf/pub/2009%20Acta%20Politica%20-%20Louwerse%20-%20Book%20Review%20-%20Authors%20Accepted%20Manuscript.pdf"
 [[url_custom]]
   name = "doi"
   url = "https://doi.org/10.1057/ap.2008.33"
