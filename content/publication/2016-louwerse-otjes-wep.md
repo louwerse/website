@@ -16,7 +16,6 @@ url_pdf = "http://www.tandfonline.com/eprint/Buvhkbf44CsQDTRFT39h/full"
 url_project = "project/parliaments"
 url_slides = ""
 url_video = ""
-selected = true
 publication_types = ["2"]
 [[url_custom]]
   name = "Accepted Manuscript"

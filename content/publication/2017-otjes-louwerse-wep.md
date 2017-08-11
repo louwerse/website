@@ -16,6 +16,7 @@ url_project = "project/parliaments"
 url_slides = ""
 url_video = ""
 publication_types = ["2"]
+selected = true
 [[url_custom]]
   name = "doi"
   url = "https://dx.doi.org/10.1080/01402382.2017.1358936"
