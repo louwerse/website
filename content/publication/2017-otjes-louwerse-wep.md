@@ -11,8 +11,8 @@ citation = "Louwerse, Tom & Simon Otjes (in press). Parliamentary Questions as S
 title = "Parliamentary Questions as Strategic Party Tools"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
-url_project = ""
+url_pdf = "http://www.tandfonline.com/doi/pdf/10.1080/01402382.2017.1358936?needAccess=true"
+url_project = "project/parliaments"
 url_slides = ""
 url_video = ""
 publication_types = ["2"]
