@@ -15,7 +15,7 @@ Media appearances and mentions:
 
 **2017**  
 
-* EenVandaag (17 August 2018) [Record-kabinet Mark Rutte](http://politiek.eenvandaag.nl/tv-items/76039/record_kabinet_mark_rutte)
+* EenVandaag (17 August 2017) [Record-kabinet Mark Rutte](http://politiek.eenvandaag.nl/tv-items/76039/record_kabinet_mark_rutte)
 * Metro (15 August 2017) [‘Compromis over euthanasie geen ramp voor D66’](https://www.metronieuws.nl/nieuws/binnenland/2017/08/compromis-over-euthanasie-geen-ramp-voor-d66)
 *	Trouw (24 July 2017) [Nederlanders en Duitsers zijn niet erg vatbaar voor populisme](https://www.trouw.nl/democratie/nederlanders-en-duitsers-zijn-niet-erg-vatbaar-voor-populisme-~a19b7ac0/)
 *   NOS (21 June 2017) [Peilingwijzer: veel van hetzelfde, maar SP verliest en Baudet wint](http://nos.nl/artikel/2179188-peilingwijzer-veel-van-hetzelfde-maar-sp-verliest-en-baudet-wint.html)
