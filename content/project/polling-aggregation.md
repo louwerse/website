@@ -32,11 +32,12 @@ Opinion polls are an increasingly central part of election campaigns. My work fo
 ## Peilingwijzer 
 The Dutch public broadcaster NOS [publishes](http://www.peilingwijzer.nl) my aggregation of Dutch national opinion polls, called ['Peilingwijzer' (Polling Indicator)](http://peilingwijzer.tomlouwerse.nl/). 
 
+### Publication
+Louwerse, Tom (2013) [Peilingen in het nieuws: van hypes naar trends]({{<ref "publication/2013-louwerse-benm.md">}}), *Beleid en Maatschappij*, 40(2), 176-179
+
 ### Paper
 Louwerse, Tom (2016) [Pooling Opinion Polls in the Netherlands](/papers). Paper presented at the Dutch-Flemish Political Science Conference, Politicologenetmaal, Brussels, 2-3 June.
 
-### Publication
-Louwerse, Tom (2013) [Peilingen in het nieuws: van hypes naar trends]({{<ref "publication/2013-louwerse-benm.md">}}), *Beleid en Maatschappij*, 40(2), 176-179
 
 ## Irish Polling Indicator
 My [Irish Polling Indicator](http://www.pollingindicator.com/) is published regularly on politicalreform.ie.
