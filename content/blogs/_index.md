@@ -12,6 +12,8 @@ highlight = false
 +++
 
 **2017**  
+Louwerse, T. (6-9-2017) ["How to use opinion polls"](https://saktuelt.com/2017/09/06/how-to-use-opinion-polls/). _Saktuelt.com_  
+
 Louwerse, T. (24-1-2017) “[The 2017 Netherlands election: Polls suggest mid-sized parties are now the new norm in Dutch politics](http://blogs.lse.ac.uk/europpblog/2017/01/24/2017-netherlands-election-mid-sized-parties-the-new-norm/)”. _LSE Europp blog_**.**  
 
 **2016**  

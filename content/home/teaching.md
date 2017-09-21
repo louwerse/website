@@ -16,8 +16,8 @@ weight = 60
 
 Currently teaching (2017-2018):
 
-- Statistics I & II (BSc Political Science Leiden, 1st year).
-- Advanced Academic & Professional Skills (MSc Political Science Leiden)
+- Statistics [I](https://studiegids.leidenuniv.nl/en/courses/show/66799/statistiek_i_beschrijven_en_presenteren) & [II](https://studiegids.leidenuniv.nl/en/courses/show/66803/statistiek_ii_analyse_en_onderzoek) (BSc Political Science Leiden, 1st year).
+- Thesis Seminar [Parties, Parliaments and Democracy: "Challenges to democracy"](https://studiegids.leidenuniv.nl/en/courses/show/70653/thesis-seminar-parties-parliament-and-democracy-spring-2018) (MSc Political Science Leiden)
 
 
 

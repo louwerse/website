@@ -15,6 +15,13 @@ weight = 20
 
 view=1
 
+# List format.
+#   0 = Simple
+#   1 = Classic
+#   2 = Detailed
+list_format = 2
+
+
 # Show publication details (such as abstract)? (true/false)
 detailed_list = true
 

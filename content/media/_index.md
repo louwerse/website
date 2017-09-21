@@ -15,6 +15,7 @@ Media appearances and mentions:
 
 **2017**  
 
+* NOS (19 September 2017) [Peilingwijzer: opmars Baudet gaat door](https://nos.nl/artikel/2193693-peilingwijzer-opmars-baudet-gaat-door.html)
 * EenVandaag (17 August 2017) [Record-kabinet Mark Rutte](http://politiek.eenvandaag.nl/tv-items/76039/record_kabinet_mark_rutte)
 * Metro (15 August 2017) [‘Compromis over euthanasie geen ramp voor D66’](https://www.metronieuws.nl/nieuws/binnenland/2017/08/compromis-over-euthanasie-geen-ramp-voor-d66)
 *	Trouw (24 July 2017) [Nederlanders en Duitsers zijn niet erg vatbaar voor populisme](https://www.trouw.nl/democratie/nederlanders-en-duitsers-zijn-niet-erg-vatbaar-voor-populisme-~a19b7ac0/)

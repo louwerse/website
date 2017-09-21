@@ -20,6 +20,10 @@ Louwerse, T. (2017) The Blurring of Opposition: Measuring Government-Opposition 
 
 Otjes, S., Louwerse, T. & Timmermans, A.  (2017) Populism and Opposition Party Behaviour in Netherlands. Paper presented at he 4th Conference of the ECPR Standing Group on Parliaments, Basel, 29 June-1 July 2017.  
 
+Sieberer, U., Meyer, T., Ceron, A., Falcó-Gimeno, A., Guinaudeau, I., Hansen, M.E., Kolltveit, K., Louwerse, T., Müller, W.C. (2017) The politics of portfolio design in European democracies. Paper presented at the 2017 ECPR General Conference, Oslo, 6-9 September, 2017.[^1]
+
+[^1]: My contribution to this paper was limited to the data collection for the Netherlands.
+
 **2016**  
 Louwerse, T. (2016) Pooling Opinion Polls in the Netherlands. Paper presented at the Dutch-Flemish Political Science Conference, Politicologenetmaal, Brussels, 2-3 June.  
 
