@@ -14,7 +14,7 @@ citation = "Louwerse, Tom (2016) Improving Opinion Poll Reporting: The Irish Pol
 url_code = "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XWAT9E"
 url_dataset = "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XWAT9E"
 url_pdf = "http://www.tandfonline.com/doi/pdf/10.1080/07907184.2016.1213719?needAccess=true"
-url_project = "project/polling-aggregation"
+projects=["polling-aggregation"]
 url_slides = ""
 url_video = ""
 publication_types = ["2"]

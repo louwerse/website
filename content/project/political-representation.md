@@ -27,16 +27,4 @@ caption = "Collectie SPAARNESTAD PHOTO/NA/Anefo/Kroon"
 
 +++
 
-The policy link between voters and politicians has been a central issue in politics for quite some time. My work focuses on the quality of this policy link: are representatives doing what people want? 
-
-### Publications
-Fivaz, Jan, Tom Louwerse & Daniel Schwarz (2014) [Keeping promises: VAAs and political representation]({{<ref "publication/2014-fivaz-etal-bc.md">}}). In: D. Garzia & S. Marschall (Eds.) Matching Voters with Parties and Candidates, pp. 197-216
-
-Louwerse, Tom (2014) [Verkiezingsbeloften: een verouderd ritueel? [Election promises: an obsolete ritual?]]({{<ref "publication/2014-louwerse-rob.md">}}), In: Sarah L. de Lange, Monique Leyenaar and Pieter de Jong (eds). Politieke partijen: nodig of overbodig?, pp. 99-110, Den Haag: Raad voor het Openbaar Bestuur.
-
-Louwerse, Tom (2012) [Mechanisms of Issue Congruence: The Democratic Party Mandate]({{<ref "publication/2012-louwerse-wep.md">}}), West European Politics, 35(6), 1249-1271
-
-Louwerse, Tom (2012) [Het democratisch mandaat van Nederlandse politieke partijen: crisis of continuïteit? [The Democratic Mandate of Dutch Political Parties: Crisis or Continuity?]]({{<ref "publication/2012-louwerse-rp.md">}}), Res Publica, 54(4), 413-441
-
-Louwerse, Tom (2011) [The Spatial Approach to the Party Mandate]({{<ref "publication/2011-louwerse-pa.md">}}), *Parliamentary Affairs* 64(3), 425-447
-
+The policy link between voters and politicians has been a central issue in politics for quite some time. My work focuses on the quality of this policy link: are representatives doing what people want?

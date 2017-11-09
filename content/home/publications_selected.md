@@ -17,9 +17,10 @@ view=1
 
 # List format.
 #   0 = Simple
-#   1 = Classic
-#   2 = Detailed
-list_format = 2
+#   1 = Detailed
+#   2 = APA
+#   3 = MLA
+list_format = 1
 
 
 # Show publication details (such as abstract)? (true/false)

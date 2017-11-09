@@ -4,6 +4,9 @@ copyright = "&copy; 2017 Tom Louwerse"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+paginate = 10
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
@@ -15,14 +18,30 @@ googleAnalytics = "UA-15135994-2"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
+[outputs]
+  home = [ "HTML", "CSS", "RSS" ]
+  section = [ "HTML", "RSS" ]
+
+# Configure BlackFriday Markdown rendering.
+#   See: https://gohugo.io/readfiles/bfconfig/
 [blackfriday]
-  hrefTargetBlank = true
+  hrefTargetBlank = true  # `true` opens external links in a new tab.
+  fractions = false  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
+  smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
 
 [params]
+  # Color theme.
+  #   Choose from `default`, `ocean`, `forest`, or `coffee`.
+  color_theme = "default"
+
+  # Font style.
+  #   Choose from `default`, `classic`, or `playfair`.
+  font = "classic"
+
   name = "Tom Louwerse"
   role = "Assistant Professor"
-  organization = "Leiden University"
-  organization_url = ""
+  organizations = [{name="Leiden University",url=""}]
+ 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "tl.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "t.p.louwerse@fsw.leidenuniv.nl"
@@ -35,10 +54,44 @@ defaultContentLanguageInSubdir = false
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
 
+  # Enable/disable map in Contact widget.
+  # To show your address on a map in the contact widget, you need to enter your latitude, longitude and choose
+  # a map provider below.
+  # To use Google Maps, set `map = 1` and enter your API key that can be obtained here:
+  #   https://developers.google.com/maps/documentation/javascript/get-api-key
+  # To use OpenStreetMap tiles, set `map = 2`.
+  # To use OpenStreetMap on a high traffic site, set `map = 3` and enter your API key that can be obtained here:
+  #   https://www.mapbox.com/studio/account/tokens
+  # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
+  #
+  # Map provider:
+  #   0: No map
+  #   1: Google Maps
+  #   2: OpenStreetMap (Mapnik)
+  #   3: OpenStreetMap (Mapbox)
+  map = 2
+  map_api_key = ""
+  latitude = "52.1699221"
+  longitude = "4.4780844"
+  zoom = 15
+  
+  
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "Mon, Jan 2, 2006"
+  #   Examples: "3:04 pm" or "15:04"
+  time_format = "15:04"
 
+  # Show estimated reading time for posts?
+  reading_time = true
+
+  # Display comment count? Requires commenting to be enabled.
+  comment_count = true
+
+  # Display section pager for posts?
+  section_pager = false
+  
+  
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
   math = false
@@ -108,6 +161,30 @@ defaultContentLanguageInSubdir = false
 	'Popular publication' #9
   ]
 
+    # Configuration of talk pages.
+  [params.talks]
+    # Show talk time?
+    time = true
+
+  # Configuration of publication pages.
+  [params.publications]
+    # Date format (refer to Go's date format: http://fuckinggodateformat.com )
+    #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+    date_format = "January, 2006"
+
+  # Configuration of project pages.
+  [params.projects]
+    # List publications and talks related to the project?
+    list_children = true
+
+    # Publication list format.
+    #   0 = Simple
+    #   1 = Detailed
+    #   2 = APA
+    #   3 = MLA
+    publication_format = 3
+
+  
   # Social/Academic Networking
   #
   # Icon pack "fa" includes the following social network icons:
