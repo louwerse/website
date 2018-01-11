@@ -15,6 +15,8 @@ Media appearances and mentions:
 
 **2017**  
 
+* NOS (19 December 2017) [Peilingwijzer: Forum voor Democratie nadert de PVV](https://nos.nl/artikel/2208477-peilingwijzer-forum-voor-democratie-nadert-de-pvv.html)
+* NOS (8 November 2017) [Peilingwijzer: regeringspartijen en Wilders in de min, Forum stijgt](https://nos.nl/artikel/2201780-peilingwijzer-regeringspartijen-en-wilders-in-de-min-forum-stijgt.html)
 * Focus (October 2017) [Restzetelverdeling valt niet meer te sturen. Lijstverbindingen zijn passé.](http://sdu.instantmagazine.com/sdu-events/focus-2018#!/dossiers/item/2)
 * De Standaard (23 September 2017) [Waarom Nederland valt voor de 'prettige Wilders'](http://www.standaard.be/cnt/dmf20170922_03089232)
 * El Diario, El Confidential & W Radio (23 September 2017) [Wilders pierde el monopolio de la extrema derecha en Holanda, según sondeos](http://www.eldiario.es/politica/Wilders-monopolio-extrema-derecha-Holanda_0_689781323.html), also [here](https://www.elconfidencial.com/ultima-hora-en-vivo/2017-09-23/wilders-pierde-el-monopolio-de-la-extrema-derecha-en-holanda-segun-sondeos_1322682/) and [here](http://www.wradio.com.co/noticias/internacional/wilders-pierde-el-monopolio-de-la-extrema-derecha-en-holanda-segun-sondeos/20170923/nota/3588696.aspx)
