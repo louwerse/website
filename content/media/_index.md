@@ -13,6 +13,13 @@ caption = "SRF Interview April 2016"
 
 Media appearances and mentions:
 
+**2018**
+
+* Volkskrant (11 April 2018) [De Twitter-motie: het nieuwe politieke wapen van Tweede Kamerleden](https://www.volkskrant.nl/media/de-twitter-motie-het-nieuwe-politieke-wapen-van-tweede-kamerleden~a4592056/)
+* AD (22 March 2018) [Is de groene revolutie nog te stoppen?](https://www.ad.nl/utrecht/is-de-groene-revolutie-nog-te-stoppen~a2893ab1/)
+* NOS (14 March 2018) [Peilingwijzer: voorsprong VVD op de rest groeit](https://nos.nl/artikel/2222268-peilingwijzer-voorsprong-vvd-op-de-rest-groeit.html)
+* NOS (7 February 2018) [Peilingwijzer: VVD met voorsprong de grootste, opmars Forum stokt](https://nos.nl/artikel/2215732-peilingwijzer-vvd-met-voorsprong-de-grootste-opmars-forum-stokt.html)
+
 **2017**  
 
 * NOS (19 December 2017) [Peilingwijzer: Forum voor Democratie nadert de PVV](https://nos.nl/artikel/2208477-peilingwijzer-forum-voor-democratie-nadert-de-pvv.html)
