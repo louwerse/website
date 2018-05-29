@@ -43,7 +43,7 @@ defaultContentLanguageInSubdir = false
   organizations = [{name="Leiden University",url=""}]
  
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "tl.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "tom.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "t.p.louwerse@fsw.leidenuniv.nl"
   address = "room 5B47, Wassenaarseweg 52, 2333 AK  Leiden, the Netherlands"
   office_hours = "Friday 9 February - Friday 16 March 2018: 12h45-13h45"
@@ -69,7 +69,7 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 2
+  map = 0
   map_api_key = ""
   latitude = "52.1699221"
   longitude = "4.4780844"
