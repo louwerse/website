@@ -1,5 +1,6 @@
 +++
-date = "2017-07-10"
+# Date this page was created.
+date = 2017-07-10T00:00:00
 
 # Project title.
 title = "Parliaments: rules and behaviour"

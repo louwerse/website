@@ -17,3 +17,11 @@
   color: #090;
   font-size: 0.8rem;
 }
+
+figure.floatright {
+	max-width: 30%;
+	width: auto\9*0.3; /* ie8 */
+	height: auto;
+	float: right;
+	padding: 5px;
+}

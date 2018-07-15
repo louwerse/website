@@ -15,6 +15,7 @@ Media appearances and mentions:
 
 **2018**
 
+* NOS (6 June 2018) [Peilingwijzer: GroenLinks nu tweede partij, na de VVD](https://nos.nl/artikel/2235227-peilingwijzer-groenlinks-nu-tweede-partij-na-de-vvd.html)
 * Volkskrant (11 April 2018) [De Twitter-motie: het nieuwe politieke wapen van Tweede Kamerleden](https://www.volkskrant.nl/media/de-twitter-motie-het-nieuwe-politieke-wapen-van-tweede-kamerleden~a4592056/)
 * AD (22 March 2018) [Is de groene revolutie nog te stoppen?](https://www.ad.nl/utrecht/is-de-groene-revolutie-nog-te-stoppen~a2893ab1/)
 * NOS (14 March 2018) [Peilingwijzer: voorsprong VVD op de rest groeit](https://nos.nl/artikel/2222268-peilingwijzer-voorsprong-vvd-op-de-rest-groeit.html)

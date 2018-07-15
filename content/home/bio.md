@@ -15,10 +15,12 @@ weight = 5
 +++
 I am an [Assistant Professor in Political Science](https://www.universiteitleiden.nl/en/staffmembers/tom-louwerse) at Leiden University, the Netherlands. My main areas of interest include political representation, parliaments, political parties, elections, polls and voting advice applications.
 
+{{<figure src="/img/tom-full.jpg" caption="Foto: Monique Shaw" class="floatright" numbered="false">}}
+
 ### Career
 I studied political science at Leiden University, obtaining my Master's degree (cum laude) in 2006 and my PhD in 2011. Part of my PhD research was completed at the University of Nottingham, where I was a guest PhD researcher in 2008. My PhD thesis, written under supervision of Prof. Rudy Andeweg and Dr Huib Pellikaan deals with the the democratic mandate of political parties in Great Britain and the Netherlands. This dissertation was shortlisted for the ECPR Jean Blondel Prize.
 
-After I completed my dissertation, I worked as a postdoctoral researcher in the [Political Legitimacy](https://www.universiteitleiden.nl/en/research-focus-areas/political-legitimacy) research profile area at Leiden, a multi-disciplinary project involving history, law, political science and public administration. In addition, I taught at the Institute of Political Science.
+After I completed my dissertation, I worked as a postdoctoral researcher in the Political Legitimacy research profile area at Leiden, a multi-disciplinary project involving history, law, political science and public administration. In addition, I taught at the Institute of Political Science.
 
 From September 2013 to December 2015 I held the position of Assistant Professor in Political Science at [Trinity College Dublin](http://www.tcd.ie/Political_Science/), Ireland. My responsibilities included teaching courses in research methods and statistics as well as comparative politics. I was Director of the M.Sc. in Politics & Public Policy in 2014-2015.
 

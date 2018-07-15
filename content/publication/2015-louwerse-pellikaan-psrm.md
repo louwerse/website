@@ -11,7 +11,7 @@ doi = "10.1177/1354068815626000"
 url_code = "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UYZMLG"
 url_dataset = "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UYZMLG"
 url_pdf = ""
-url_project = ""
+projects= []
 url_slides = ""
 url_video = ""
 publication_types = ["2"]
