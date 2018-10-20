@@ -2,8 +2,7 @@
 abstract = "In een politieke discussie staan vooral meningen centraal. En met ‘feiten’ kunnen politici alle kanten op. Toch pleit bijna niemand voor ‘fact-free politics’. Doorslaan naar een ‘fact based’ technocratie is echter ook geen goed idee, meent Tom Louwerse."
 authors = ["Tom Louwerse"]
 date = "2012-10-18"
-image = ""
-image_preview = ""
+
 math = false
 publication = "*Idee: wetenschappelijk tijdschrift D66* 2012(5): 21-23"
 title = "Feitenvrije vs meningenvrije politiek"

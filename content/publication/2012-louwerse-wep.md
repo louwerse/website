@@ -3,8 +3,7 @@ abstract = "Issue congruence between voters and parties can be achieved if voter
 abstract_short = "This article studies collective party mandate fulfilment by comparing parties’ election manifestos with the parliamentary speeches of their politicians in two countries: a typical consensus democracy, the Netherlands, and a typical majoritarian democracy, the United Kingdom."
 authors = ["Tom Louwerse"]
 date = "2012-10-04"
-image = ""
-image_preview = ""
+
 math = false
 publication = "*West European Politics* 35(6), 1249-1271"
 title = "Mechanisms of Issue Congruence: The Democratic Party Mandate"

@@ -3,8 +3,7 @@ abstract = "This paper shifts the analysis of parliamentary oversight tools to t
 abstract_short = "This paper shifts the analysis of parliamentary oversight tools to the level of the political party, asking how political parties make use of written parliamentary questions."
 authors = ["Simon Otjes", "Tom Louwerse"]
 date = "2018-02-01"
-image = ""
-image_preview = ""
+
 math = false
 publication = "*West European Politics*, 41(2): 496-516"
 title = "Parliamentary Questions as Strategic Party Tools"
@@ -21,4 +20,4 @@ selected = true
   url = "https://dx.doi.org/10.1080/01402382.2017.1358936"
 +++
 
-### This is an open access publication <i class="ai ai-open-access"></i> <i class="fa fa-creative-commons" aria-hidden="true"></i>
+### This is an open access publication <i class="ai ai-open-access"></i> <i class="fab fa-creative-commons"></i>

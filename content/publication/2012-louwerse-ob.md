@@ -2,8 +2,7 @@
 abstract = ""
 authors = ["Tom Louwerse"]
 date = "2012-12-01"
-image = ""
-image_preview = ""
+
 math = false
 publication = "Openbaar Bestuur, december 2012, p. 30."
 title = "Leven van Dick Dolman. [Bespreking van: Politiek samenspel: biografische notities]"

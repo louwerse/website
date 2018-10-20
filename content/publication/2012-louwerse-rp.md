@@ -3,8 +3,7 @@ abstract = "This article studies the extent to which Dutch political parties ful
 abstract_short = "This article studies the extent to which Dutch political parties fulfil their electoral mandates."
 authors = ["Tom Louwerse"]
 date = "2012-12-01"
-image = ""
-image_preview = ""
+
 math = false
 publication = "Res Publica, 54(4), 413-441"
 title = "Het democratisch mandaat van Nederlandse politieke partijen: crisis of continuïteit?"

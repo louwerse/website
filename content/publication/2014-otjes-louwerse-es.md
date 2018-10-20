@@ -2,8 +2,7 @@
 abstract = "We examine the use of spatial models in Voting Advice Applications. A successful branch of VAAs uses multidimensional models of the political space to inform users of their policy match with political parties. Creators of these VAAs offer only a very generalized justification for the choice of their underlying spatial model. We examine whether these spatial representations offer a valid depiction of policy differences between parties. We compare the spatial models from the available national ‘electoral compasses’, which include established democracies as well as semi-authoritarian and transitional systems. We find that the two-dimensional ‘one-size fits all’ model that is used in all of these countries fails to accommodate significant variation between party systems."
 authors = ["Simon Otjes", "Tom Louwerse"]
 date = "2014-12-01"
-image = ""
-image_preview = ""
+
 math = false
 publication = "*Electoral Studies* 36: 263-271"
 title = "Spatial models in voting advice applications"

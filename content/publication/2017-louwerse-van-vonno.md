@@ -3,8 +3,7 @@ abstract = "Bĳ het algemeen kiesrecht en de gelijktijdige invoering van de even
 abstract_short = "We analyseren de relatie tussen parlement en regering aan de hand van interruptiepatronen in parlementaire debatten en een gedetailleerde lezing van geselecteerde Algemene Beschouwingen"
 authors = ["Tom Louwerse", "Cynthia M.C. van Vonno"]
 date = "2017-12-16"
-image = ""
-image_preview = ""
+
 math = false
 selected=true
 publication = "In: Rudy B. Andeweg and Monique Leyenaar (eds). *Alle stemmen tellen.* Amsterdam: Amsterdam University Press."

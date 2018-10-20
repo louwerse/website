@@ -2,8 +2,7 @@
 abstract = ""
 authors = ["Tom Louwerse"]
 date = "2014-04-01"
-image = ""
-image_preview = ""
+
 math = false
 publication = "In: Sarah L. de Lange, Monique Leyenaar and Pieter de Jong (eds). Politieke partijen: nodig of overbodig?, pp. 99-110, Den Haag: Raad voor het Openbaar Bestuur."
 title = "Verkiezingsbeloften: een verouderd ritueel? [Election promises: an obsolete ritual?]"

@@ -2,8 +2,7 @@
 abstract = ""
 authors = ["Tom Louwerse"]
 date = "2013-04-01"
-image = ""
-image_preview = ""
+
 math = false
 publication = "*Beleid en Maatschappij*, 40(2), 176-179"
 title = "Peilingen in het nieuws: van hypes naar trends"

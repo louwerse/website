@@ -3,8 +3,7 @@ abstract = "Voting Advice Applications (VAAs) represent popular election campaig
 abstract_short = "This article examines the effects of design choices on these tools by focusing on the response scale that is used to measure the policy positions of parties and voters."
 authors = ["Martin Rosema", "Tom Louwerse"]
 date = "2016-10-24"
-image = ""
-image_preview = ""
+
 math = false
 publication = "*Policy & Internet* 8(4): 431-456"
 title = "Response Scales in Voting Advice Applications: Do Different Designs Produce Different Outcomes?"
@@ -22,4 +21,4 @@ publication_types = ["2"]
   url = "http://doi.org/10.1002/poi3.139"
 +++
 
-### This is an open access publication <i class="ai ai-open-access"></i> <i class="fa fa-creative-commons" aria-hidden="true"></i>
+### This is an open access publication <i class="ai ai-open-access"></i> <i class="fab fa-creative-commons"></i>

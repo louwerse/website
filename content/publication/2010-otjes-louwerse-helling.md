@@ -2,8 +2,7 @@
 abstract = "Het denken over democratisering binnen GroenLinks is blijven steken in het participatie-ideaal uit de jaren zeventig, hoewel dat niet meer klopt met de praktijk. De partij moet een andere weg inslaan."
 authors = ["Simon Otjes", "Tom Louwerse"]
 date = "2010-09-21"
-image = ""
-image_preview = ""
+
 math = false
 publication = "*De Helling: Tijdschrift voor linkse politiek* 2010(3)"
 title = "Kies voor de liberale democratie"

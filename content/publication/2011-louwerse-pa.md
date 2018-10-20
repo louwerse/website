@@ -3,8 +3,7 @@ abstract = "This article applies spatial theory to the question of the party man
 abstract_short = "This article applies spatial theory to the question of the party mandate."
 authors = ["Tom Louwerse"]
 date = "2011-03-25"
-image = ""
-image_preview = ""
+
 math = false
 publication = "*Parliamentary Affairs* 64(3), 425-447"
 title = "The Spatial Approach to the Party Mandate"

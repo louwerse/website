@@ -2,8 +2,7 @@
 abstract = ""
 authors = ["Simon Otjes", "Tom Louwerse"]
 date = "2014-10-01"
-image = ""
-image_preview = ""
+
 math = false
 publication = "In: G. Voerman (Ed.), Halverwege? Tussenbalans kabinet Rutte-II, pp. 35–48, Den Haag: Montesquieu Instituut."
 title = "Een middenkabinet of een minderheidskabinet?"

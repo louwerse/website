@@ -3,8 +3,7 @@ abstract = "This research note introduces the Dutch Parliamentary Behaviour Data
 abstract_short = "The Dutch Parliamentary Behaviour Dataset contains a record of parliamentary (voting) behaviour in the Dutch Tweede Kamer (Second Chamber, House of Representatives) since 1945."
 authors = ["Tom Louwerse", "Simon Otjes", "Cynthia van Vonno"]
 date = "2018-01-01"
-image = ""
-image_preview = ""
+
 math = false
 publication = "*Acta Politica*, 53(1), 149-166"
 title = "The Dutch Parliamentary Behaviour Dataset"

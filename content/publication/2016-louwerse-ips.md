@@ -3,8 +3,7 @@ abstract = "This article describes a statistical method for aggregating the info
 abstract_short = "This article describes a statistical method for aggregating the information from Irish opinion polls."
 authors = ["Tom Louwerse"]
 date = "2016-08-07"
-image = ""
-image_preview = ""
+
 math = false
 selected=false
 publication = "*Irish Political Studies* 31(4): 541-566"
@@ -22,3 +21,5 @@ publication_types = ["2"]
   name = "doi"
   url = "http://doi.org/10.1080/07907184.2016.1213719"
 +++
+
+### This is an open access publication <i class="ai ai-open-access"></i> <i class="fab fa-creative-commons"></i>

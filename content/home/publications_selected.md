@@ -20,7 +20,7 @@ view=1
 #   1 = Detailed
 #   2 = APA
 #   3 = MLA
-list_format = 1
+list_format = 2
 
 
 # Show publication details (such as abstract)? (true/false)

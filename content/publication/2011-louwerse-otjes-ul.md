@@ -2,8 +2,7 @@
 abstract = ""
 authors = ["Tom Louwerse", "Simon Otjes"]
 date = "2011-09-28"
-image = ""
-image_preview = ""
+
 math = false
 publication = "Technical Report. Leiden: Universiteit Leiden."
 title = "Loyaal met een scherpe rand"
