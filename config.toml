@@ -211,13 +211,13 @@ defaultContentLanguageInSubdir = false
     #   2 = APA
     #   3 = MLA
     #   4 = Stream
-    publication_format = 4
+    publication_format = 2
 
     # Talk list format.
     #   0 = Simple
     #   1 = Detailed
     #   2 = Stream
-    talk_format = 2
+    talk_format = 0
 
   
   # Social/Academic Networking

@@ -11,10 +11,15 @@ highlight = false
 
 +++
 
+**2018**  
+Otjes, S. & Louwerse, T. (9-7-2018) ["Evidence from the Netherlands: How do populist parties act in parliament?"](http://blogs.lse.ac.uk/europpblog/2018/07/09/evidence-from-the-netherlands-how-do-populist-parties-act-in-parliament/), _LSE EUROPP blog_.  
+
+
 **2017**  
 Louwerse, T. (6-9-2017) ["How to use opinion polls"](https://saktuelt.com/2017/09/06/how-to-use-opinion-polls/). _Saktuelt.com_  
 
 Louwerse, T. (24-1-2017) “[The 2017 Netherlands election: Polls suggest mid-sized parties are now the new norm in Dutch politics](http://blogs.lse.ac.uk/europpblog/2017/01/24/2017-netherlands-election-mid-sized-parties-the-new-norm/)”. _LSE Europp blog_**.**  
+
 
 **2016**  
 Louwerse, T. (11-2-2016)  ["General election poll of polls: Who’s up and who’s down?"](http://www.irishtimes.com/news/politics/general-election-poll-of-polls-who-s-up-and-who-s-down-1.2531286)_Irish Times_  

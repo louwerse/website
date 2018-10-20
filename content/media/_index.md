@@ -15,6 +15,9 @@ Media appearances and mentions:
 
 **2018**
 
+* Nederlands Dagblad (22 September 2018) [Regeren kost partijen steeds vaker stemmen](https://www.nd.nl/nieuws/politiek/regeren-kost-partijen-steeds-vaker-stemmen.3132651.lynkx)
+* NOS (12 September 2018) [Peilingwijzer: PVV krabbelt weer wat op, maar blijft ver achter de VVD](https://nos.nl/artikel/2250004-peilingwijzer-pvv-krabbelt-weer-wat-op-maar-blijft-ver-achter-de-vvd.html)
+* Stuk Rood Vlees Podcast (26 August 2018) [Interview with Armèn Hakhverdian (edition 9)](https://itunes.apple.com/nl/podcast/stuk-rood-vlees-podcast/id1254074458?mt=2)
 * NOS (6 June 2018) [Peilingwijzer: GroenLinks nu tweede partij, na de VVD](https://nos.nl/artikel/2235227-peilingwijzer-groenlinks-nu-tweede-partij-na-de-vvd.html)
 * Volkskrant (11 April 2018) [De Twitter-motie: het nieuwe politieke wapen van Tweede Kamerleden](https://www.volkskrant.nl/media/de-twitter-motie-het-nieuwe-politieke-wapen-van-tweede-kamerleden~a4592056/)
 * AD (22 March 2018) [Is de groene revolutie nog te stoppen?](https://www.ad.nl/utrecht/is-de-groene-revolutie-nog-te-stoppen~a2893ab1/)

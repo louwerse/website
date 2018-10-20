@@ -14,10 +14,10 @@ weight = 60
 
 +++
 
-Currently teaching (2017-2018):
+Currently teaching (2019-2019):
 
-- Statistics [I](https://studiegids.leidenuniv.nl/en/courses/show/66799/statistiek_i_beschrijven_en_presenteren) & [II](https://studiegids.leidenuniv.nl/en/courses/show/66803/statistiek_ii_analyse_en_onderzoek) (BSc Political Science Leiden, 1st year).
-- Thesis Seminar [Parties, Parliaments and Democracy: "Challenges to democracy"](https://studiegids.leidenuniv.nl/en/courses/show/70653/thesis-seminar-parties-parliament-and-democracy-spring-2018) (MSc Political Science Leiden)
-
+* [Statistics I](https://studiegids.leidenuniv.nl/en/courses/show/78727/statistiek_i_beschrijven_en_presenteren) (BSc Political Science Leiden, 1st year).
+* Thesis Seminar [Parties, Parliaments and Democracy & Duch Politics: "Challenges to democracy"](https://studiegids.leidenuniv.nl/en/courses/show/86151/thesis-seminar-nederlandse-politiek-fall-2018) (MSc Political Science Leiden/The Hague)
+* Master Seminar "Political Representation and Parliamentary Politics" (MSc Political Science Leiden/The Hague)
 
 
