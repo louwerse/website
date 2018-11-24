@@ -12,6 +12,9 @@ highlight = false
 +++
 
 **2018**  
+Müller, S. & Louwerse, T. (31-10-2018) [
+Government parties no longer bounce back from midterm losses](http://blogs.lse.ac.uk/europpblog/2018/10/31/government-parties-no-longer-bounce-back-from-midterm-losses/), _LSE EUROPP blog_.
+
 Otjes, S. & Louwerse, T. (9-7-2018) ["Evidence from the Netherlands: How do populist parties act in parliament?"](http://blogs.lse.ac.uk/europpblog/2018/07/09/evidence-from-the-netherlands-how-do-populist-parties-act-in-parliament/), _LSE EUROPP blog_.  
 
 
