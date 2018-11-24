@@ -8,7 +8,7 @@ abstract_short = ""
 event = "Alumnibijeenkomst FSW ‘Uitwisseling wetenschap en praktijk’"
 event_url = "https://www.medewerkers.universiteitleiden.nl/agenda/2018/11/fsw-alumni-event?cf=sociale-wetenschappen&cd=politieke-wetenschap"
 location = "Leiden, the Netherlands"
-
+projects=["polling-aggregation"]
 selected = true
 math = true
 

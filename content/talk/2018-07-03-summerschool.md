@@ -8,7 +8,7 @@ abstract_short = ""
 event = "Data in Democracy Summer School"
 event_url = "https://twitter.com/dataindemocracy"
 location = "The Hague, the Netherlands"
-
+projects=["political-representation"]
 selected = true
 math = true
 

@@ -7,6 +7,7 @@
 baseurl = "https://www.tomlouwerse.nl/"  # End your URL with a `/` trailing slash.
 title = "Tom Louwerse"
 copyright = "&copy; 2018 Tom Louwerse"
+
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -24,6 +25,10 @@ googleAnalytics = "UA-15135994-2"
 defaultContentLanguage = "en"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
+
+# Get last modified date for content from Git?
+enableGitInfo = false
+
 
 [outputs]
   home = [ "HTML", "CSS", "RSS", "JSON"]
@@ -204,6 +209,12 @@ defaultContentLanguageInSubdir = false
   [params.projects]
     # List publications and talks related to the project?
     list_children = true
+	
+	# Post list format.
+    #   0 = Simple
+    #   1 = Detailed
+    #   2 = Stream
+    post_format = 2
 
     # Publication list format.
     #   0 = Simple
@@ -217,7 +228,7 @@ defaultContentLanguageInSubdir = false
     #   0 = Simple
     #   1 = Detailed
     #   2 = Stream
-    talk_format = 0
+    talk_format = 2
 
   
   # Social/Academic Networking

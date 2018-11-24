@@ -7,9 +7,6 @@ title = "Polling Aggregation"
 # Project summary to display on homepage.
 summary = "Peilingwijzer and the Irish Polling Indicator pool Dutch and Irish opinion polls respectively"
 
-# Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "peilingwijzer.png"
-
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["elections", "methodology"]

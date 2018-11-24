@@ -7,9 +7,6 @@ title = "Voting Advice Applications"
 # Project summary to display on homepage.
 summary = "VAAs help voters during elections. I study their design."
 
-# Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "vaa.jpg"
-
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["elections", "methodology"]

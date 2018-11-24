@@ -19,10 +19,19 @@ external_link = ""
 math = false
 fractions = false
 
-# Optional featured image (relative to `static/img/` folder).
-# [header]
-# image = "headers/tweedekamer-wide.jpg"
-# caption = "CC-BY-SA 3.0 [Edwtie](https://commons.wikimedia.org/wiki/User:Edwtie)"
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references 
+#   `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+# slides = "example-slides"
+
+# Links (optional).
+url_pdf = ""
+url_slides = ""
+url_video = ""
+url_code = ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -34,14 +43,9 @@ fractions = false
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
 
-# ### Current (working and conference) papers
-# 
-# Louwerse, T. (2015) The concept of 'positive' and 'negative' parliamentarism. Paper presented at the workshop 'Vague concepts and poor operationalization – solutions to measurement problems in studies of government formation', Stockholm, 16-18 September.  
-  
+
 +++
 
 The digital publication of parliamentary data has provided a great incentive for the study of parliamentary behaviour. My current work focuses mainly on the Netherlands, but also Belgium and Sweden as well as country-comparative analysis.
 
 The main questions that I focus on are those of patterns of parliamentary (voting) behaviour, particularly with regard to party unity and the government-opposition division in parliament. In addition, I am interested in the concept of (positive and negative) parliamentarism as well as the government formation process.
-
-

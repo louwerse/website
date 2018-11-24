@@ -12,8 +12,4 @@ highlight = false
 #   4 = Stream
 list_format = 2
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
 +++
