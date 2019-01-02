@@ -15,6 +15,9 @@ Media appearances and mentions:
 
 **2018**
 
+* NRC Handelsblad (28 December 2018) [Hoe hard heeft de coalitie Jesse Klaver straks nodig?](https://www.nrc.nl/nieuws/2018/12/28/2019-is-voor-groenlinks-nog-maar-een-tussenjaar-a3127242)
+* NOS (19 December 2018) [Peilingwijzer: Forum voor Democratie en ChristenUnie stijgen](https://nos.nl/artikel/2264194-peilingwijzer-forum-voor-democratie-en-christenunie-stijgen.html)
+* NOS (14 November 2018) [Peilingwijzer: VVD verliest, coalitiepartijen ver onder de 75 zetels](https://nos.nl/artikel/2259191-peilingwijzer-vvd-verliest-coalitiepartijen-ver-onder-de-75-zetels.html)
 * Nederlands Dagblad (22 September 2018) [Regeren kost partijen steeds vaker stemmen](https://www.nd.nl/nieuws/politiek/regeren-kost-partijen-steeds-vaker-stemmen.3132651.lynkx)
 * NOS (12 September 2018) [Peilingwijzer: PVV krabbelt weer wat op, maar blijft ver achter de VVD](https://nos.nl/artikel/2250004-peilingwijzer-pvv-krabbelt-weer-wat-op-maar-blijft-ver-achter-de-vvd.html)
 * Stuk Rood Vlees Podcast (26 August 2018) [Interview with Armèn Hakhverdian (edition 9)](https://itunes.apple.com/nl/podcast/stuk-rood-vlees-podcast/id1254074458?mt=2)

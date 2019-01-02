@@ -14,7 +14,14 @@ highlight = false
 _Conference and working papers_
 
 **2018**
+
+Louwerse, T. & Otjes, S. (2018) Counting to 76. Rules and Norms in Legislative-Executive Relations in the Netherlands. Paper presented ECPR General Conference, Hamburg, 22-25 August. 
+
+Louwerse, T. & Timmermans, A. (2018) Coalition Politics in the Netherlands: Old Solutions to New Problems. Paper presented at book workshop Coalition GOvernance in Western Europe, Lund, 17-18 May.
+
 Vonno, C.M.C. van & Louwerse, T. (2018) Hard Work Pays Off. Candidate Selection and Parliamentary Activity. Paper Presented at the Annual Conference of the European Political Science Association, Vienna, 21-23 June.
+
+
 
 **2017**  
 Müller, S. & Louwerse, T.  (2017) Explaining Government Support Throughout the Legislative Cycle: A Comparative Analysis. Paper presented at the General Conference of the European Political Science Association, Milan, 22-24 June.  
