@@ -78,7 +78,16 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.25;
   color: #313131;
   text-rendering: optimizeLegibility;
-  overflow-wrap: break-word; /* Ensures very long heading words do not overflow into content. */
+
+  /* Ensure long words do not overflow into content. */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-word;
+
+  /* Add a hyphen where the word breaks (use `&shy;` to insert a soft-hyphen in a word). */
+  -webkit-hyphens: manual;
+  -ms-hyphens: manual;
+  hyphens: manual;
 }
 h1 {
   font-size: 2.25rem;
@@ -776,12 +785,6 @@ article {
   box-sizing: border-box;
 }
 
-/* Prevent FA's line height of 1 causing FA button links to be taller than other button links. */
-.btn-links .fab,
-.btn-links .fas {
-  line-height: inherit !important;
-}
-
 .split-header-image {
   position: relative; /* Required for caption positioning */
   clear: both;
@@ -796,6 +799,32 @@ article {
 .article-banner {
   width: 100%;
   height: auto;
+}
+
+.featured-image {
+  width: 100%;
+  background-position: left;
+  background-origin: border-box;
+  background-size: cover;
+  height: 60vh;
+  min-height: 500px;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 0 auto;
+  -ms-flex: 1 0 auto;
+  flex: 1 0 auto
+}
+
+@media screen and (max-width: 1199px) {
+  .featured-image {
+    min-height: 400px;
+    height: auto;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .featured-image {
+    min-height: 300px;
+  }
 }
 
 .article-header-caption {
@@ -1189,6 +1218,30 @@ article .article-metadata {
 }
 
 /*************************************************
+ *  Accomplishments
+ **************************************************/
+ 
+.course {
+  margin-bottom: -0.5rem;
+}
+
+.course h6 {
+  font-size: 0.80rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-transform: uppercase;
+}
+
+.course h6 a {
+  border-bottom: solid 1px transparent;
+}
+
+.course h6 a:hover {
+  border-bottom: solid 1px;
+  text-decoration: none;
+}
+
+/*************************************************
  *  Card component
  **************************************************/
 
@@ -1403,8 +1456,13 @@ a.badge:hover {
   border-radius: .3rem;
 }
 
+.btn-links .btn {
+  padding: 5px .5rem 5px .5rem;
+  line-height: 1;
+}
+
 .btn.btn-sm {
-  padding: .4rem;
+  padding: 5px .4rem 5px .4rem;
   font-size: .6rem;
   border-radius: .2rem;
 }
@@ -1756,7 +1814,7 @@ table > tbody > tr:hover > th {
  *  Alerts
  **************************************************/
 
-div.alert p {
+div.alert > div {
   position: relative;
   display: block;
   font-size: 1rem;
@@ -1765,7 +1823,15 @@ div.alert p {
   margin-bottom: 0;
 }
 
-div.alert p:first-child::before {
+div.alert div > * {
+  margin-bottom: .5rem;  /* Use smaller paragraph spacing than usual. */
+}
+
+div.alert div > :last-child {
+  margin-bottom: 0;
+}
+
+div.alert > div:first-child::before {
   position: absolute;
   top: -0.5rem;
   left: -2rem;
@@ -1778,7 +1844,7 @@ div.alert p:first-child::before {
   text-align: center;
 }
 
-div.alert-warning p:first-child::before {
+div.alert-warning > div:first-child::before {
   font-family: 'Font Awesome 5 Free';
   font-weight: 900;
   color: #ff3860;
