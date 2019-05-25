@@ -1,8 +1,8 @@
 +++
-date = 2018-10-16T13:00:00
+publishDate = 2018-10-16T13:00:00
 title = "De Stem des Volks"
-time_start = 2018-11-16T13:00:00
-time_end = 2018-11-16T16:50:00
+date = 2018-11-16T13:00:00
+date_end = 2018-11-16T16:50:00
 abstract = ""
 abstract_short = ""
 event = "Alumnibijeenkomst FSW ‘Uitwisseling wetenschap en praktijk’"

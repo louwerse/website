@@ -15,7 +15,7 @@ projects=["political-representation", "vaa"]
 url_slides = ""
 url_video = ""
 publication_types = ["6"]
-[[url_custom]]
+[[links]]
   name = "Order Book"
   url = "http://press.ecpr.eu/book_details.asp?bookTitleID=104"
 +++

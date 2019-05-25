@@ -1,37 +1,14 @@
 +++
-# About/Biography widget.
+widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 1  # Order that this section will appear in.
 
-date = "2016-04-20T00:00:00"
-draft = false
+title = "Biography"
 
-widget = "about"
-
-# Order that this section will appear in.
-weight = 1
-
-# List your academic interests.
-[interests]
-  interests = [
-    "Legislative Politics",
-	"Political Representation",
-    "Elections",
-	"Opinion polls"
-  ]
-
-# List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Political Science"
-  institution = "Leiden University"
-  year = 2011
-
-[[education.courses]]
-  course = "MA in Political Science"
-  institution = "Leiden University"
-  year = 2006
-
+# Choose the user profile to display
+# This should be the username of a profile in your `content/authors/` folder.
+# See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
+author = "admin"
 
 +++
-
-I am an Assistant Professor in Political Science at [Leiden University](https://www.universiteitleiden.nl/en/staffmembers/tom-louwerse), the Netherlands. My [research](#projects) and [teaching](#teaching) focuses on elections, political representation and parliamentary politics in the Netherlands and other established democracies. 
-
-My outreach activities include [Peilingwijzer](http://peilingwijzer.tomlouwerse.nl), a poll aggregation project in collaboration with the the Dutch public broadcaster NOS. I am a contributor to the Dutch political science weblog [Stuk Rood Vlees](http://www.stukroodvlees.nl).

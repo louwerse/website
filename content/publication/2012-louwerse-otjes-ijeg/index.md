@@ -15,7 +15,7 @@ projects=["vaa"]
 url_slides = ""
 url_video = ""
 publication_types = ["2"]
-[[url_custom]]
+[[links]]
   name = "Accepted Manuscript"
   url = "pdf/pub/2012 Louwerse%20and%20Otjes%20-%20Design%20challenges%20in%20cross-national%20VAAs%20The%20case%20of%20the%20EU%20Profiler%20-%20Accepted%20Manuscript.pdf"
 +++

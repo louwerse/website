@@ -1,8 +1,8 @@
 +++
-date = "2017-03-30T00:00:00"
+publishDate = "2017-03-30T00:00:00"
 title = "Waarom zou je peilingen serieus nemen?"
-time_start = 2017-03-30T20:00:00
-time_end = 2017-03-30T21:30:00
+date = 2017-03-30T20:00:00
+date_end = 2017-03-30T21:30:00
 abstract = ""
 abstract_short = ""
 event = "Jonge Alumni Netwerk - Lenteborrel met Tom Louwerse over de Peilingwijzer"

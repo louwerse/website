@@ -1,8 +1,8 @@
 +++
-date = "2017-04-11T20:00:00"
+publishDate = "2017-04-11T20:00:00"
 title = "Waarom zou je peilingen serieus nemen?"
-time_start = 2017-04-11T20:00:00
-time_end = 2017-04-11T21:00:00
+date = 2017-04-11T20:00:00
+date_end = 2017-04-11T21:00:00
 
 abstract = ""
 abstract_short = ""

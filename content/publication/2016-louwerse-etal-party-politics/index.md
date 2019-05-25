@@ -10,7 +10,7 @@ doi = "10.1177/1354068815626000"
 citation = "Louwerse, Tom, Simon Otjes, David M. Willumsen, and Patrick Öhberg (2016) Reaching across the aisle: Explaining government–opposition voting in parliament, *Party Politics*, doi:10.1177/1354068815626000"
 projects=["parliaments"]
 publication_types = ["2"]
-[[url_custom]]
+[[links]]
   name = "Accepted Manuscript"
   url = "2016-louwerse-etal-party-politics.pdf"
 +++

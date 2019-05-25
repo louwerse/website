@@ -1,6 +1,6 @@
 +++
 abstract = "Policy preferences of political parties help explain how elections are fought, why people vote for certain parties and why parties form certain coalition governments. If you want to know whether parties represent citizens' views or whether they manage to enact these views, you need data on what parties want."
-abstract_short = "Book review of Mapping Policy Preferences II"
+summary = "Book review of Mapping Policy Preferences II"
 authors = ["Tom Louwerse"]
 date = "2009-04-01"
 math = false
@@ -14,8 +14,8 @@ url_pdf = ""
 projects= []
 url_slides = ""
 url_video = ""
-publication_types = ["7"]
-[[url_custom]]
+publication_types = ["2"]
+[[links]]
   name = "Accepted Manuscript"
   url = "pdf/pub/2009%20Acta%20Politica%20-%20Louwerse%20-%20Book%20Review%20-%20Authors%20Accepted%20Manuscript.pdf"
 +++

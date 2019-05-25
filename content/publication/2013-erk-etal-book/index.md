@@ -14,7 +14,7 @@ projects= []
 url_slides = ""
 url_video = ""
 publication_types = ["5"]
-[[url_custom]]
+[[links]]
   name = "Order Book"
   url = "https://www.acco.be/en/items/9789033492488/Politiek-in-een-veranderende-wereld"
 

@@ -14,5 +14,5 @@ url_pdf = "pdf/pub/2014-louwerse-idee.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
-publication_types = ["8"]
+publication_types = ["2"]
 +++

@@ -1,8 +1,8 @@
 +++
-date = "2016-10-22T00:00:00"
+publishDate = "2016-10-22T00:00:00"
 title = "Campagne 2017: Kiesgedrag, peilingen & beloftes"
-time_start = 2016-10-22T00:00:00
-time_end = 2016-10-22T01:00:00
+date = 2016-10-22T00:00:00
+date_end = 2016-10-22T01:00:00
 abstract = ""
 abstract_short = ""
 event = "Congres DWARS, GroenLinkse Jongeren"

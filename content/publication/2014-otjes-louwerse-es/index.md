@@ -15,7 +15,7 @@ projects=["vaa"]
 url_slides = ""
 url_video = ""
 publication_types = ["2"]
-[[url_custom]]
+[[links]]
   name = "Accepted Manuscript"
   url = "pdf/pub/2014%20Otjes%2C%20Louwerse%20-%20Spatial%20Models%20in%20Voting%20Advice%20Applications%20-%20AM.pdf"
 +++

@@ -14,6 +14,6 @@ url_pdf = "https://bureaudehelling.nl/artikel-tijdschrift/kies-voor-de-liberale-
 projects= []
 url_slides = ""
 url_video = ""
-publication_types = ["8"]
+publication_types = ["0"]
 +++
 

@@ -14,7 +14,7 @@ url_pdf = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-publication_types = ["7"]
+publication_types = ["0"]
 +++
 
 ## Leven van Dick Dolman

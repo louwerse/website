@@ -12,6 +12,6 @@ url_pdf = "https://openaccess.leidenuniv.nl/handle/1887/17723"
 projects = ["political-representation"]
 url_slides = ""
 url_video = ""
-publication_types = ["5"]
+publication_types = ["7"]
 +++
  

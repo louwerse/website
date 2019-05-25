@@ -15,7 +15,7 @@ projects=["parliaments"]
 url_slides = ""
 url_video = ""
 publication_types = ["2"]
-[[url_custom]]
+[[links]]
   name = "Accepted Manuscript"
   url = "pdf/pub/2014%20WEP%20Van%20Aelst-Louwerse%20-%20AM.pdf"
 +++

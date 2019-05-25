@@ -15,7 +15,7 @@ projects=["parliaments"]
 url_slides = ""
 url_video = ""
 publication_types = ["2"]
-[[url_custom]]
+[[links]]
   name = "Accepted Manuscript"
   url = "pdf/pub/2015%20Otjes%2C%20Louwerse%20-%20Populists%20in%20Parliament%20-%20AAM.pdf"
 +++

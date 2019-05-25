@@ -14,8 +14,8 @@ url_pdf = ""
 projects=["polling-aggregation"]
 url_slides = ""
 url_video = ""
-publication_types = ["8"]
-[[url_custom]]
+publication_types = ["2"]
+[[links]]
   name = "Publisher website"
   url = "https://tijdschriften.boombestuurskunde.nl/tijdschrift/benm/2013/2/benm_1389-0069_2013_040_002_011"
 +++

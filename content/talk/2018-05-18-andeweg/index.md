@@ -1,8 +1,8 @@
 +++
-date = 2018-05-18T13:15:00
+publishDate = 2018-05-18T13:15:00
 title = "Parlementaire oppositie: overal en nergens?"
-time_start = 2018-05-18T13:15:00
-time_end = 2018-05-18T15:15:00
+date = 2018-05-18T13:15:00
+date_end = 2018-05-18T15:15:00
 abstract = ""
 abstract_short = ""
 event = "Afscheidssymposium Prof.dr. Rudy B. Andeweg"

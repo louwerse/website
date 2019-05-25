@@ -14,6 +14,6 @@ url_pdf = "pdf/pub/2011-louwerse-otjes-ul.pdf"
 projects= []
 url_slides = ""
 url_video = ""
-publication_types = ["8"]
+publication_types = ["4"]
 +++
 
