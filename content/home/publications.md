@@ -6,7 +6,7 @@ date = "2016-04-20T00:00:00"
 active = true
 
 title = "Recent Publications"
-subtitle = "[Conference papers &#187;](/papers)"
+subtitle = "[View all &#187;](/publication)<br>[Conference papers &#187;](/papers)"
 widget = "pages"
 headless = true  # This file represents a page section.
 
@@ -68,6 +68,5 @@ weight = 25
  
  # CSS class.
  css_class = ""
-
 +++
 
