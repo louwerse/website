@@ -13,6 +13,18 @@ caption = "SRF Interview April 2016"
 
 Media appearances and mentions:
 
+**2019**
+
+* Stuk Rood Vlees Podcast (7 May 2019) [Interview with Armèn Hakhverdian about the Peilingwijzer (edition 26)](https://stukroodvlees.nl/aflevering-26-tom-louwerse-over-de-peilingwijzer/)
+* NOS (1 May 2019) [Peilingwijzer: VVD en Forum voor Democratie nu even groot](https://nos.nl/artikel/2282802-peilingwijzer-vvd-en-forum-voor-democratie-nu-even-groot.html)
+* NRC Handelsblad (19 March 2019) [Hoe actief zijn Eerste Kamerleden?](https://www.nrc.nl/nieuws/2019/03/19/niets-zeggen-tijdens-een-debat-dat-kan-dadelijk-niet-meer-a3953857)
+* NRC Handelsblad (17 March 2019) [Verkiezingstijd is het moment om plannen te testen](https://www.nrc.nl/nieuws/2019/03/17/verkiezingstijd-is-het-moment-om-plannen-te-testen-a3953593)
+* NOS (19 March 2019) [Peilingwijzer Eerste Kamer: coalitiepartijen blijven op verlies staan](https://nos.nl/artikel/2276733-peilingwijzer-eerste-kamer-coalitiepartijen-blijven-op-verlies-staan.html)
+* Stuk Rood Vlees Podcast (19 March 2019) [Interview with Armèn Hakhverdian about the Senate Elections (edition 17)](https://stukroodvlees.nl/stuk-rood-vlees-podcast-aflevering-17-de-eerste-kamer-met-tom-louwerse-en-tom-van-der-meer/)
+* NOS (13 March 2019) [Peilingwijzer Eerste Kamer: coalitie verliest meerderheid, FvD en GroenLinks winnen](https://nos.nl/artikel/2275728-peilingwijzer-eerste-kamer-coalitie-verliest-meerderheid-fvd-en-groenlinks-winnen.html)
+* NOS (20 February 2019) [Peilingwijzer: coalitie blijft op twintigtal zetels verlies ](https://nos.nl/artikel/2272710-peilingwijzer-coalitie-blijft-op-twintigtal-zetels-verlies.html)
+
+
 **2018**
 
 * NRC Handelsblad (28 December 2018) [Hoe hard heeft de coalitie Jesse Klaver straks nodig?](https://www.nrc.nl/nieuws/2018/12/28/2019-is-voor-groenlinks-nog-maar-een-tussenjaar-a3127242)
