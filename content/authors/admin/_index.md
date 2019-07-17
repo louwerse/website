@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Assistant Professor in Political Science at Leiden University.
+bio: Associate Professor in Political Science at Leiden University.
 
 interests:
 - Legislative Politics
@@ -79,7 +79,7 @@ email: ""
 ---
 
 
-I am an Assistant Professor in Political Science at [Leiden University](https://www.universiteitleiden.nl/en/staffmembers/tom-louwerse), the Netherlands. My [research](#projects) and [teaching](#teaching) focuses on elections, political representation and parliamentary politics in the Netherlands and other established democracies. 
+I am an Associate Professor in Political Science at [Leiden University](https://www.universiteitleiden.nl/en/staffmembers/tom-louwerse), the Netherlands. My [research](#projects) and [teaching](#teaching) focuses on elections, political representation and parliamentary politics in the Netherlands and other established democracies. 
 
 <!-- My current research projects, supported by an Open Research Area (ORA) and NWO Vidi grant, focus on dyadic political representation and government-opposition cooperation in parliament. -->
 
