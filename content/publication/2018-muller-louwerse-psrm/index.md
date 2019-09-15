@@ -15,7 +15,7 @@ url_pdf = "https://www.cambridge.org/core/services/aop-cambridge-core/content/vi
 projects=["parliaments"]
 url_slides = ""
 url_video = ""
-url_custom = [{name = "Supplementary Material", url = "https://static.cambridge.org/resource/id/urn:cambridge.org:id:binary:20181016042838648-0281:S204984701800047X:S204984701800047Xsup001.pdf"}]
+links = [{name = "Supplementary Material", url = "https://www.cambridge.org/core/journals/political-science-research-and-methods/article/electoral-cycle-effect-in-parliamentary-democracies/B2C3071988DE9492F67BB79276D722A1#fndtn-supplementary-materials"}]
 publication_types = ["2"]
 
 +++
