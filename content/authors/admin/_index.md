@@ -81,6 +81,6 @@ email: ""
 
 I am an Associate Professor in Political Science at [Leiden University](https://www.universiteitleiden.nl/en/staffmembers/tom-louwerse), the Netherlands. My [research](#projects) and [teaching](#teaching) focuses on elections, political representation and parliamentary politics in the Netherlands and other established democracies. 
 
-Currently, I am working on two major research project. [The Nature of Political Representation in Times of Dealignment](project/napre), supported by the Open Research Area, studies various forms of political representation. The project [Who opposes?](project/who-opposes) focuses on government-opposition cooperation in parliament and is supported by a Vidi grant from the Dutch Research Council (NWO).
+Currently, I am working on two major research projects. [The Nature of Political Representation in Times of Dealignment](project/napre), supported by the Open Research Area, studies the quality and nature of political representation. The project [Who opposes?](project/who-opposes) focuses on government-opposition cooperation in parliament and is supported by a Vidi grant from the Dutch Research Council (NWO).
 
 My outreach activities include [Peilingwijzer](http://peilingwijzer.tomlouwerse.nl), a poll aggregation project in collaboration with the the Dutch public broadcaster NOS. I have the pleasure of acting as chair of [Young Academy Leiden](https://www.universiteitleiden.nl/en/academic-staff/young-academy-leiden).
