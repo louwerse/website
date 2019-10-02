@@ -64,15 +64,17 @@ From September 2013 to December 2015 I held the position of Assistant Professor 
 ### Current role
 In January 2016 I took up the position of Assistant Professor of Political Science at Leiden University. In 2019 I was promoted to Associate Professor. In the academic year 2019-2020, I am teaching statistics to undergraduate students and a seminar course on representation and parliamentary politics.
 
-I fulfil various professional service roles. I am Convenor of the [Standing Group on Parliaments](http://standinggroups.ecpr.eu/parliaments/), one of the largest and most active specialist groups within the European Consortium for Political Research (ECPR). I am chair of the Young Academy Leiden, an interdisciplinary group of young researchers at Leiden University. 
+#### Professional service and outreach
+I fulfil various professional service roles. I am Convenor of the [Standing Group on Parliaments](http://standinggroups.ecpr.eu/parliaments/), one of the largest and most active specialist groups within the European Consortium for Political Research (ECPR). I am chair of the [Young Academy Leiden](https://www.universiteitleiden.nl/en/academic-staff/young-academy-leiden), an interdisciplinary group of young researchers at Leiden University. 
 
 In 2017 and 2018, I co-organized the Dutch Flemish Political Science conference [*Politicologenetmaal*](http://politicologenetmaal.eu/) with Hans Vollaard, Corinna Jentzsch and Nicolas Blarel in Leiden. In 2019, I co-organized the [Standing Group on Parliaments Conference](http://standinggroups.ecpr.eu/parliaments/?page_id=499) in Leiden with Rudy Andeweg, Tim Mickler and Cynthia van Vonno.
 
 My outreach activities include polling aggregation in the [Netherlands](http://peilingwijzer.tomlouwerse.nl/), published by the public broadcaster NOS, and [Ireland](http://www.pollingindicator.com/). I am a co-founder of and contributor to the Dutch political science weblog [Stuk Rood Vlees](http://www.stukroodvlees.nl/).
 
+#### Honours and grants
 In September 2015 I received the [Emerging Scholars Award](http://www.apsanet.org/section-5-Emerging-Scholars-Award) from the Organized Section on Political Organizations and Parties of the American Political Science Association. 
 
-My work is financially supported by the Netherlands Organisation for Scientific Research (NWO). In 2018, together with Prof. Thomas Zittel and Prof. Rosie Campbell, I obtained a grant in the Open Research Area (ORA) for your project ["The Nature of Political Representation in Times of Dealignment"]({{< ref "/project/napre/index.md" >}}). In 2019, I was awarded an NWO Vidi grant for my research project "Who opposes? Explaining government-opposition cooperation in parliament and its consequences for democratic legitimacy". 
+My work is financially supported by the Netherlands Organisation for Scientific Research (NWO). In 2018, together with Prof. Thomas Zittel and Prof. Rosie Campbell, I obtained a grant in the Open Research Area (ORA) for your project ["The Nature of Political Representation in Times of Dealignment"]({{< ref "/project/napre/index.md" >}}). In 2019, I was awarded an NWO Vidi grant for my research project ["Who opposes? Explaining government-opposition cooperation in parliament and its consequences for democratic legitimacy"](project/who-opposes). 
 
 :page_facing_up: [Curriculum vitae](pdf/CV.pdf)
 

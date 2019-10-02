@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Associate Professor in Political Science at Leiden University.
+bio: Associate Professor in Political Science at Leiden University
 
 interests:
 - Legislative Politics
@@ -81,6 +81,6 @@ email: ""
 
 I am an Associate Professor in Political Science at [Leiden University](https://www.universiteitleiden.nl/en/staffmembers/tom-louwerse), the Netherlands. My [research](#projects) and [teaching](#teaching) focuses on elections, political representation and parliamentary politics in the Netherlands and other established democracies. 
 
-<!-- My current research projects, supported by an Open Research Area (ORA) and NWO Vidi grant, focus on dyadic political representation and government-opposition cooperation in parliament. -->
+Currently, I am working on two major research project. [The Nature of Political Representation in Times of Dealignment](project/napre), supported by the Open Research Area, studies various forms of political representation. The project [Who opposes?](project/who-opposes) focuses on government-opposition cooperation in parliament and is supported by a Vidi grant from the Dutch Research Council (NWO).
 
-My outreach activities include [Peilingwijzer](http://peilingwijzer.tomlouwerse.nl), a poll aggregation project in collaboration with the the Dutch public broadcaster NOS. I am a contributor to the Dutch political science weblog [Stuk Rood Vlees](http://www.stukroodvlees.nl).
+My outreach activities include [Peilingwijzer](http://peilingwijzer.tomlouwerse.nl), a poll aggregation project in collaboration with the the Dutch public broadcaster NOS. I have the pleasure of acting as chair of [Young Academy Leiden](https://www.universiteitleiden.nl/en/academic-staff/young-academy-leiden).
