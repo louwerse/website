@@ -52,7 +52,7 @@ weight = 5
 +++
 I am an [Associate Professor in Political Science](https://www.universiteitleiden.nl/en/staffmembers/tom-louwerse) at Leiden University, the Netherlands. My main areas of interest include political representation, parliaments, political parties, elections, polls and voting advice applications.
 
-{{<figure src="/img/tom-full.jpg" caption="Foto: Monique Shaw" class="floatright" numbered="false">}}
+{{<figure library="true" src="tom-full.jpg" caption="Foto: Monique Shaw" class="floatright" lightbox="true" numbered="false" style="max-width: 30%; width: auto\9*0.3; height: auto; float: right;	padding: 5px;">}}
 
 ### Career
 I studied political science at Leiden University, obtaining my Master's degree (cum laude) in 2006 and my PhD in 2011. Part of my PhD research was completed at the University of Nottingham, where I was a guest PhD researcher in 2008. My PhD thesis, written under supervision of Prof. Rudy Andeweg and Dr Huib Pellikaan deals with the the democratic mandate of political parties in Great Britain and the Netherlands. This dissertation was shortlisted for the ECPR Jean Blondel Prize.

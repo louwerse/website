@@ -16,7 +16,7 @@ baseurl = "https://www.tomlouwerse.nl/"  # End your URL with a `/` trailing slas
 copyright = "&copy; {year} Tom Louwerse"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-15135994-2"
+# googleAnalytics = ""
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
@@ -42,8 +42,15 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [outputs]
-  home = [ "HTML", "RSS", "JSON" ]
+  home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
   section = [ "HTML", "RSS" ]
+
+[mediaTypes."application/manifest+json"]
+  suffixes = ["webmanifest"]
+
+[outputFormats.WebAppManifest]
+  mediaType = "application/manifest+json"
+  rel = "manifest"
 
 # Configure BlackFriday Markdown rendering.
 #   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
