@@ -180,8 +180,8 @@ sharing = true
 ## Marketing
 ############################
 [marketing]
-  google_analytics = "UA-15135994-2"
-  google_tag_manager = ""
+ google_analytics = "UA-15135994-2"
+ google_tag_manager = ""
   
   
 # Link authors to their profile page? (true/false)
