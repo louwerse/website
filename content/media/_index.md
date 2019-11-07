@@ -15,6 +15,12 @@ Media appearances and mentions:
 
 **2019**
 
+* NOS (26 October 2019) [Halverwege de rit bekennen coalitie en oppositie kleur met plannetjes](https://nos.nl/artikel/2307692-halverwege-de-rit-bekennen-coalitie-en-oppositie-kleur-met-plannetjes.html)
+* NRC Handelsblad (12 October 2019) [Het kabinet vreest de oppositie niet](https://www.nrc.nl/nieuws/2019/10/12/kabinet-vreest-de-oppositie-niet-a3976517)
+* Stuk Rood Vlees Podcast (26 September 2019) [Interview with Armèn Hakhverdian about the Dutch electoral system and the politics of opposition (edition 41)](http://stukroodvlees.nl/stuk-rood-vlees-podcast-aflevering-41-het-nederlandse-kiesstelsel-doorgelicht-met-rudy-andeweg-en-tom-louwerse/)
+* NOS (11 September 2019) [Peilingwijzer: Forum maakt duikvlucht, VVD verreweg de grootste](https://nos.nl/artikel/2301200-peilingwijzer-forum-maakt-duikvlucht-vvd-verreweg-de-grootste.html)
+* De Volkskrant (19 August 2019) [Henk Otten en zijn Ottianen hebben het verleden niet mee](https://www.volkskrant.nl/nieuws-achtergrond/henk-otten-en-zijn-ottianen-hebben-het-verleden-niet-mee~b0ef4695/)
+* NOS (17 July 2019) [Peilingwijzer: PvdA en VVD omhoog, SP en PVV verder achteruit ](https://nos.nl/artikel/2293806-peilingwijzer-pvda-en-vvd-omhoog-sp-en-pvv-verder-achteruit.html)
 * Stuk Rood Vlees Podcast (7 May 2019) [Interview with Armèn Hakhverdian about the Peilingwijzer (edition 26)](https://stukroodvlees.nl/aflevering-26-tom-louwerse-over-de-peilingwijzer/)
 * NOS (1 May 2019) [Peilingwijzer: VVD en Forum voor Democratie nu even groot](https://nos.nl/artikel/2282802-peilingwijzer-vvd-en-forum-voor-democratie-nu-even-groot.html)
 * NRC Handelsblad (19 March 2019) [Hoe actief zijn Eerste Kamerleden?](https://www.nrc.nl/nieuws/2019/03/19/niets-zeggen-tijdens-een-debat-dat-kan-dadelijk-niet-meer-a3953857)
