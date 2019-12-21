@@ -57,7 +57,7 @@ address = {street = "room 5B47, Wassenaarseweg 52", city = "2333 AK, Leiden", re
 coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = ["By appointment", "Friday 1 Nov - 29 Nov 2019, 13h00-14h00"]
+office_hours = ["By appointment"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
