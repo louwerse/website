@@ -3,8 +3,8 @@ title = "Wat heb je als kiezer aan politieke peilingen?"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2020-02-05T19:30:00+01:00
-date_end = 2020-02-05T21:00:00+01:00
+date = 2020-02-12T19:30:00+01:00
+date_end = 2020-02-12T21:00:00+01:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
