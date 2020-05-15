@@ -16,7 +16,7 @@ authors:
   - Josje den Ridder
 date: '2019-12-13'
 math: false
-publication: 'Inleiding: Nederlandse politiek van driestromenland tot delta? In: Louwerse T., Andeweg R.B., Holsteyn J.J.M. van, Ridder J. den (Eds.) *Van driestromenland tot delta? Beschouwingen over ontwikkelingen in de Nederlandse politiek.* Leiden: Leiden University Press. 7-18'
+publication: 'In: Louwerse T., Andeweg R.B., Holsteyn J.J.M. van, Ridder J. den (Eds.) *Van driestromenland tot delta? Beschouwingen over ontwikkelingen in de Nederlandse politiek.* Leiden: Leiden University Press. 7-18'
 title: 'Inleiding: Nederlandse politiek van driestromenland tot delta?'
 selected: false
 projects: []

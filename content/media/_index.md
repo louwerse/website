@@ -13,14 +13,21 @@ caption = "SRF Interview April 2016"
 
 Media appearances and mentions:
 
+**2020**
+
+* NOS (31 March 2020) [Peilingwijzer: VVD wint fors in crisistijd](https://nos.nl/artikel/2328981-peilingwijzer-vvd-wint-fors-in-crisistijd.html)
+* NOS (29 January 2020) [Peilingwijzer: 50Plus in de lift, Forum kruipt weer omhoog](https://nos.nl/artikel/2320847-peilingwijzer-50plus-in-de-lift-forum-kruipt-weer-omhoog.html)
+
+
 **2019**
 
+* NOS (27 November 2019) [Peilingwijzer: VVD verliest terrein, maar blijft verreweg de grootste](https://nos.nl/artikel/2312192-peilingwijzer-vvd-verliest-terrein-maar-blijft-verreweg-de-grootste.html)
 * NOS (26 October 2019) [Halverwege de rit bekennen coalitie en oppositie kleur met plannetjes](https://nos.nl/artikel/2307692-halverwege-de-rit-bekennen-coalitie-en-oppositie-kleur-met-plannetjes.html)
 * NRC Handelsblad (12 October 2019) [Het kabinet vreest de oppositie niet](https://www.nrc.nl/nieuws/2019/10/12/kabinet-vreest-de-oppositie-niet-a3976517)
 * Stuk Rood Vlees Podcast (26 September 2019) [Interview with Armèn Hakhverdian about the Dutch electoral system and the politics of opposition (edition 41)](http://stukroodvlees.nl/stuk-rood-vlees-podcast-aflevering-41-het-nederlandse-kiesstelsel-doorgelicht-met-rudy-andeweg-en-tom-louwerse/)
 * NOS (11 September 2019) [Peilingwijzer: Forum maakt duikvlucht, VVD verreweg de grootste](https://nos.nl/artikel/2301200-peilingwijzer-forum-maakt-duikvlucht-vvd-verreweg-de-grootste.html)
 * De Volkskrant (19 August 2019) [Henk Otten en zijn Ottianen hebben het verleden niet mee](https://www.volkskrant.nl/nieuws-achtergrond/henk-otten-en-zijn-ottianen-hebben-het-verleden-niet-mee~b0ef4695/)
-* NOS (17 July 2019) [Peilingwijzer: PvdA en VVD omhoog, SP en PVV verder achteruit ](https://nos.nl/artikel/2293806-peilingwijzer-pvda-en-vvd-omhoog-sp-en-pvv-verder-achteruit.html)
+* NOS (17 July 2019) [Peilingwijzer: PvdA en VVD omhoog, SP en PVV verder achteruit](https://nos.nl/artikel/2293806-peilingwijzer-pvda-en-vvd-omhoog-sp-en-pvv-verder-achteruit.html)
 * Stuk Rood Vlees Podcast (7 May 2019) [Interview with Armèn Hakhverdian about the Peilingwijzer (edition 26)](https://stukroodvlees.nl/aflevering-26-tom-louwerse-over-de-peilingwijzer/)
 * NOS (1 May 2019) [Peilingwijzer: VVD en Forum voor Democratie nu even groot](https://nos.nl/artikel/2282802-peilingwijzer-vvd-en-forum-voor-democratie-nu-even-groot.html)
 * NRC Handelsblad (19 March 2019) [Hoe actief zijn Eerste Kamerleden?](https://www.nrc.nl/nieuws/2019/03/19/niets-zeggen-tijdens-een-debat-dat-kan-dadelijk-niet-meer-a3953857)
@@ -28,7 +35,7 @@ Media appearances and mentions:
 * NOS (19 March 2019) [Peilingwijzer Eerste Kamer: coalitiepartijen blijven op verlies staan](https://nos.nl/artikel/2276733-peilingwijzer-eerste-kamer-coalitiepartijen-blijven-op-verlies-staan.html)
 * Stuk Rood Vlees Podcast (19 March 2019) [Interview with Armèn Hakhverdian about the Senate Elections (edition 17)](https://stukroodvlees.nl/stuk-rood-vlees-podcast-aflevering-17-de-eerste-kamer-met-tom-louwerse-en-tom-van-der-meer/)
 * NOS (13 March 2019) [Peilingwijzer Eerste Kamer: coalitie verliest meerderheid, FvD en GroenLinks winnen](https://nos.nl/artikel/2275728-peilingwijzer-eerste-kamer-coalitie-verliest-meerderheid-fvd-en-groenlinks-winnen.html)
-* NOS (20 February 2019) [Peilingwijzer: coalitie blijft op twintigtal zetels verlies ](https://nos.nl/artikel/2272710-peilingwijzer-coalitie-blijft-op-twintigtal-zetels-verlies.html)
+* NOS (20 February 2019) [Peilingwijzer: coalitie blijft op twintigtal zetels verlies](https://nos.nl/artikel/2272710-peilingwijzer-coalitie-blijft-op-twintigtal-zetels-verlies.html)
 
 
 **2018**

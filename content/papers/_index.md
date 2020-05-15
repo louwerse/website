@@ -13,11 +13,23 @@ highlight = false
 
 _Conference and working papers_
 
+
+**2019**
+
+Louwerse, T. & Van Dijk R. (2019) Reporting the polls: The quality of media reporting of vote intention polls in the Netherlands. Paper Presented at the ECPR General Conference, Wroclaw, 4-7 September.
+
+Vonno, C.M.C. van & Louwerse, T. (2019) Hard Work Pays Off. Candidate Selection and Parliamentary Activity. Paper Presented at the ECPR General Conference, Wroclaw, 4-7 September.
+
+Louwerse, T. & Van Dijk R. (2019) Reporting the polls: Polling aggregation and the coverage of opinion polls. Paper presented at the Dutch-Flemish Political Science Conference, Politicologenetmaal, Antwerpen, 13-14 June.
+
+S. Otjes & Louwerse, T. (2019) Populist Opposition: A comparative approach to the opposition styles of populist parties. Paper presented at the ECPR Joint Sessions of Workshops in Mons, Belgium, 8-12 April, 2019.
+
+
 **2018**
 
 Louwerse, T. & Otjes, S. (2018) Counting to 76. Rules and Norms in Legislative-Executive Relations in the Netherlands. Paper presented ECPR General Conference, Hamburg, 22-25 August. 
 
-Louwerse, T. & Timmermans, A. (2018) Coalition Politics in the Netherlands: Old Solutions to New Problems. Paper presented at book workshop Coalition GOvernance in Western Europe, Lund, 17-18 May.
+Louwerse, T. & Timmermans, A. (2018) Coalition Politics in the Netherlands: Old Solutions to New Problems. Paper presented at book workshop Coalition Governance in Western Europe, Lund, 17-18 May.
 
 Vonno, C.M.C. van & Louwerse, T. (2018) Hard Work Pays Off. Candidate Selection and Parliamentary Activity. Paper Presented at the Annual Conference of the European Political Science Association, Vienna, 21-23 June.
 
@@ -28,7 +40,7 @@ Müller, S. & Louwerse, T.  (2017) Explaining Government Support Throughout the 
 
 Louwerse, T. (2017) The Blurring of Opposition: Measuring Government-Opposition Relations in Parliament. Paper presented at the General Conference of the European Political Science Association, Milan, 22-24 June, and at the 4th Conference of the ECPR Standing Group on Parliaments, Basel, 29 June-1 July 2017.  
 
-Otjes, S., Louwerse, T. & Timmermans, A.  (2017) Populism and Opposition Party Behaviour in Netherlands. Paper presented at he 4th Conference of the ECPR Standing Group on Parliaments, Basel, 29 June-1 July 2017.  
+Otjes, S., Louwerse, T. & Timmermans, A.  (2017) Populism and Opposition Party Behaviour in Netherlands. Paper presented at the 4th Conference of the ECPR Standing Group on Parliaments, Basel, 29 June-1 July 2017.  
 
 Sieberer, U., Meyer, T., Ceron, A., Falcó-Gimeno, A., Guinaudeau, I., Hansen, M.E., Kolltveit, K., Louwerse, T., Müller, W.C. (2017) The politics of portfolio design in European democracies. Paper presented at the 2017 ECPR General Conference, Oslo, 6-9 September, 2017.[^1]
 
