@@ -15,6 +15,12 @@ Media appearances and mentions:
 
 **2020**
 
+* Jansen, Jan Pieter (9 July 2020) [Coalitiepartijen onder de loep: VVD op winst, CDA en D66 ten dode opgeschreven?](https://www.hpdetijd.nl/2020-07-09/coalitiepartijen-onder-de-loep-vvd-op-winst-cda-en-d66-ten-dode-opgeschreven/?share_code=SkcW3Ij1TBXr), HP/De Tijd.
+* NOS (8 July 2020) [Peilingwijzer: VVD zakt iets terug na 'coronapiek', D66 en CDA winnen zetels terug](https://nos.nl/artikel/2340000-peilingwijzer-vvd-zakt-iets-terug-na-coronapiek-d66-en-cda-winnen-zetels-terug.html)
+* De Stemming van Vullings en Van der Wulp (3 July 2020) [#40 - Hoe gaat politiek Den Haag het reces in? (S02)](https://www.nporadio1.nl/podcasts/de-stemming-van-vullings-en-van-der-wulp/22055-40-hoe-gaat-politiek-den-haag-het-reces-in-s02) (from 41:25)
+* Trouw (29 June 2020) [Afvallige FvD’ers sluiten zich aan bij partij Henk Krol](https://www.trouw.nl/politiek/afvallige-fvd-ers-sluiten-zich-aan-bij-partij-henk-krol~bb546e30/)
+* Nieuwsuur (13 June 2020) [Gaat Rutte voor nog een termijn en wordt GroenLinks een bestuurderspartij? ](https://nos.nl/nieuwsuur/artikel/2337105-gaat-rutte-voor-nog-een-termijn-en-wordt-groenlinks-een-bestuurderspartij.html)
+* NOS (15 May 2020) [Peilingwijzer: VVD loopt nog meer uit, 50Plus valt ver terug](https://nos.nl/artikel/2334039-peilingwijzer-vvd-loopt-nog-meer-uit-50plus-valt-ver-terug.html)
 * NOS (31 March 2020) [Peilingwijzer: VVD wint fors in crisistijd](https://nos.nl/artikel/2328981-peilingwijzer-vvd-wint-fors-in-crisistijd.html)
 * NOS (29 January 2020) [Peilingwijzer: 50Plus in de lift, Forum kruipt weer omhoog](https://nos.nl/artikel/2320847-peilingwijzer-50plus-in-de-lift-forum-kruipt-weer-omhoog.html)
 

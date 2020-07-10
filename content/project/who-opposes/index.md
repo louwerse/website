@@ -33,7 +33,7 @@ fractions = false
   
 +++
 {{% alert note %}}
-This project is financially supported by the [Dutch Research Council (NWO)](https://www.nwo.nl/en/research-and-results/programmes/nwo/talent-scheme/vidi-awards-2018.html). The project starts in December 2019.
+This project is financially supported by the [Dutch Research Council (NWO)](https://www.nwo.nl/en/research-and-results/programmes/nwo/talent-scheme/vidi-awards-2018.html). The project started in December 2019. [Rick van Well](https://www.universiteitleiden.nl/en/staffmembers/rick-van-well) and [Elina Zorina](https://hu.linkedin.com/in/elina-zorina) are the two PhD students involved in this project, starting September 2020. 
 {{% /alert %}}
 
 The main objectives of this project are to measure and explain government-opposition cooperation and to study its consequences for democratic legitimacy and vote choice. Choice is essential to democracy; in modern representative democracies that choice is provided by opposition and governing parties competing in elections. If the choice is to be meaningful, opposition parties have to be distinct from government parties. Previous studies have looked at parties’ distinctiveness in the electoral arena, but what happens in parliament has been overlooked.
