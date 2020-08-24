@@ -14,6 +14,10 @@ highlight = false
 _Conference and working papers_
 
 
+**2020**
+
+Baumann, M., Bolet, D., Campbell, R., Louwerse, T., Pedersen, H.H., Schakel, W., Zittel, T. (2020) The Responsiveness of MPs to Citizen-Initiated Policy Queries; A Proposal for a Pre-Analysis Plan. Paper presented at the ECPR Virtual General Conference, 24-28 August.
+
 **2019**
 
 Louwerse, T. & Van Dijk R. (2019) Reporting the polls: The quality of media reporting of vote intention polls in the Netherlands. Paper Presented at the ECPR General Conference, Wroclaw, 4-7 September.
@@ -75,7 +79,7 @@ Louwerse, T. (2014) [The impact of electoral uncertainty on the party mandate in
 
 Louwerse, T. (2014) [Unpacking 'positive' and 'negative' parliamentarism](https://dl.dropboxusercontent.com/u/31727287/Papers/Louwerse%20-%202014%20-%20Unpacking%20%27positive%27%20and%20%27negative%27%20parliamentarism.pdf). Paper presented at the workshop "The Evolution of Parliamentarism and Its Political Consequences", Joint Sessions of Workshops of the European Consortium of Political Research, Salamanca, Spain, 10-15 April.  
 
-Otjes, S. & Louwerse, T. (2014) [Personalised parliamentary behaviour without electoral incentives: the case of the Netherlands](https://s3.eu-central-1.amazonaws.com/louwerse/Public/Publications/2014%20Otjes%20and%20Louwerse%20-%20Personalised%20parliamentary%20behaviour%20without%20electoral%20incentives.pdf). Paper presented at the workshop ‘What, how and why do parties and politicians decide? Innovative and established approaches in political decision-making’, Politicologenetmaal, Maastricht, the Netherlands, 12-13 June.  
+Otjes, S. & Louwerse, T. (2014) Personalised parliamentary behaviour without electoral incentives: the case of the Netherlands. Paper presented at the workshop ‘What, how and why do parties and politicians decide? Innovative and established approaches in political decision-making’, Politicologenetmaal, Maastricht, the Netherlands, 12-13 June.  
 
 Otjes, S., Louwerse, T., Willumsen, D. & Öhberg, P. (2014) The Impact of Government Majority Status on Parliamentary Behaviour: Comparing Sweden and the Netherlands. Paper presented at the panel 'Perspectives on Legislative Voting', ECPR General Conference, Glasgow, 5 September.  
 
@@ -84,9 +88,9 @@ Louwerse, T. & Van Aelst, P. (2013)[ The exceptional Belgian case? Government fo
 
 Fivaz, J., Louwerse, T. & Schwarz, D. (2013). Keeping promises: VAAs and political representation. Paper presented at the conference ‘Matching Voters with Parties and Candidates: Voting Advice Applications in a Comparative Perspective’, Lausanne, 1-2 May.  
 
-Louwerse, T. & Otjes, S. (2013). [A special majority cabinet? Minority cabinet governance in the Netherlands](http://www.mendeley.com/download/public/5277251/5187160451/68e4710fc17d7a2faf63322d44c1b7121c2541df/dl.pdf). Paper presented at the session Parliamentary Rules, Conference ‘Political Legitimacy and the Paradox of Regulation’, Leiden, 23-25 January.  
+Louwerse, T. & Otjes, S. (2013). A special majority cabinet? Minority cabinet governance in the Netherlands. Paper presented at the session Parliamentary Rules, Conference ‘Political Legitimacy and the Paradox of Regulation’, Leiden, 23-25 January.  
 
-Otjes, S. & Louwerse, T. (2013). [Patterns of coalition-opposition voting in parliamentary systems: exploring case of the Netherlands](http://www.mendeley.com/download/public/5277251/5718898241/67e2cff9308787274a6f738891d033cdb7f81b63/dl.pdf). Paper presented at the ECPR General Conference, Bordeaux, 4-7 September.  
+Otjes, S. & Louwerse, T. (2013). Patterns of coalition-opposition voting in parliamentary systems: exploring case of the Netherlands. Paper presented at the ECPR General Conference, Bordeaux, 4-7 September.  
 
 Otjes, S. & Louwerse, T. (2013). Personalised parliamentary behaviour without electoral incentives: the case of the Netherlands. Paper presented at the workshop Understanding Parliamentarians. Individual Goals and Behaviour in European Legislatures, ECPR Joint Sessions of Workshops, Mainz, 12-15 March.  
 

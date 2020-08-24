@@ -6,7 +6,7 @@ date = "2014-05-01"
 math = false
 publication = "In: D. Garzia & S. Marschall (Eds.) Matching Voters with Parties and Candidates, pp. 197-216"
 title = "Keeping promises: VAAs and political representation"
-doi = "10.1080/13572334.2015.1076653"
+doi = ""
 citation = "Fivaz, Jan, Tom Louwerse & Daniel Schwarz (2014) Keeping promises: VAAs and political representation. In: D. Garzia & S. Marschall (Eds.) Matching Voters with Parties and Candidates, pp. 197-216"
 url_code = ""
 url_dataset = ""
@@ -16,6 +16,6 @@ url_slides = ""
 url_video = ""
 publication_types = ["6"]
 [[links]]
-  name = "Order Book"
-  url = "http://press.ecpr.eu/book_details.asp?bookTitleID=104"
+  name = "Publisher website"
+  url = "https://rowman.com/ISBN/9781907301735/Matching-Voters-with-Parties-and-Candidates-Voting-Advice-Applications-in-a-Comparative-Perspective"
 +++

@@ -6,7 +6,7 @@ date = "2018-01-01"
 math = false
 publication = "*Political Science Research and Methods*, 6(1): 197-209"
 title = "Estimating Uncertainty in Party Policy Positions Using the Confrontational Approach"
-doi = "10.1177/1354068815626000"
+doi = "10.1017/psrm.2015.32"
 url_code = "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UYZMLG"
 url_dataset = "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UYZMLG"
 url_pdf = ""
